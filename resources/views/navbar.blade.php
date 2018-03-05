@@ -1,28 +1,13 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Claire Horne</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Work
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Jaeger</a>
-                    <a class="dropdown-item" href="#">London Transport Museum</a>
-                    <a class="dropdown-item" href="#">Waterstones</a>
-                </div>
-            </li>
-        </ul>
-
-    </div>
+<nav class="navbar navbar-default" role="navigation">
+    <a class='navbar-brand' href='/'>Claire Horne</a>
+    <a class="fa fa-list-ul" data-target='#modalNavigation'
+       data-toggle='modal'></a>
 </nav>
+
+<div class='modal fade modal-fullscreen-menu' id='modalNavigation' role='dialog' tabindex='-1'>
+    <div class="modal-content">
+        <nav class='list-group'>
+            <a class='list-group-item' href='/work'>Work</a>
+            <a class='list-group-item' href='/about'>About</a>
+    </div>
+</div>

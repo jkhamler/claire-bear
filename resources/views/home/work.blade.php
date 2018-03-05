@@ -11,5 +11,5 @@
 @endsection
 
 @section('content')
-    <p>Home Page.</p>
+    <p>Work Page.</p>
 @endsection
