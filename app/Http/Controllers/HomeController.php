@@ -20,13 +20,18 @@ class HomeController extends Controller
         return view('home.about', []);
     }
 
-    public function contact()
+    public function contact(Request $request)
     {
 
-        return view('home.contact', []);
+//        echo '<pre>';
+//        print_r($request->input('name'));
+//        echo '</pre>';
+//        exit;
+
+        $emailSent = mail('jkhamler@gmail.com', 'Blah', 'SGSGSG');
+
+
     }
-
-
 
 
 }

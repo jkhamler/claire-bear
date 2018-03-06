@@ -15,7 +15,7 @@
 /** Home Pages (about, contact, work) */
 Route::get('/', 'HomeController@index');
 Route::get('/about', 'HomeController@about');
-Route::get('/contact', 'HomeController@contact');
+Route::post('home/contact', 'HomeController@contact');
 Route::get('/work', 'ProjectController@index');
 
 
