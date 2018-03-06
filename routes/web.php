@@ -18,3 +18,8 @@ Route::get('/about', 'HomeController@about');
 Route::get('/contact', 'HomeController@contact');
 
 Route::get('/work', 'HomeController@work');
+
+
+/** Project Routes - Add More Here */
+Route::get('/project/jaeger', 'Projectontroller@jaeger');
+Route::get('/project/waterstones', 'Projectontroller@waterstones');
