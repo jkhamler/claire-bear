@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'UniversSBMediumClaire';
+    font-style: normal;
+    font-weight: 400;
+    src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.eot") format('eot');
+    src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.woff") format('woff');
+    src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.ttf") format('truetype');
+    src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.svg") format('svg');
+}
+
 body {
     font-family: 'Lato', sans-serif;
 }
@@ -83,3 +93,23 @@ body {
     color: white;
     background-color: #333;
 }
+
+.header-hamburger {
+    color: #333333;
+
+}
+
+.title-name {
+    color: #46a0bf;
+    font-size: 72px;
+    font-family: UniversSBMediumClaire;
+}
+
+.navbar-white {
+    background-color: white;
+}
+
+.main-background {
+    background-color: #eff1f1;
+}
+
