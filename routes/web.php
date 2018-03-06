@@ -11,15 +11,14 @@
 |
 */
 
+
+/** Home Pages (about, contact, work) */
 Route::get('/', 'HomeController@index');
-
 Route::get('/about', 'HomeController@about');
-
 Route::get('/contact', 'HomeController@contact');
-
-Route::get('/work', 'HomeController@work');
+Route::get('/work', 'ProjectController@index');
 
 
 /** Project Routes - Add More Here */
-Route::get('/project/jaeger', 'Projectontroller@jaeger');
-Route::get('/project/waterstones', 'Projectontroller@waterstones');
+Route::get('/project/jaeger', 'ProjectController@jaeger');
+Route::get('/project/waterstones', 'ProjectController@waterstones');
