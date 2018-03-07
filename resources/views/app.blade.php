@@ -18,7 +18,7 @@
     @include('navbar')
 @show
 
-<div class="container">
+<div class="container body-container">
     @yield('content')
 </div>
 

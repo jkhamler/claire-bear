@@ -1,13 +1,3 @@
-@font-face {
-    font-family: 'UniversSBMediumClaire';
-    font-style: normal;
-    font-weight: 400;
-    src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.eot") format('eot');
-    src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.woff") format('woff');
-    src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.ttf") format('truetype');
-    src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.svg") format('svg');
-}
-
 body {
     font-family: 'Lato', sans-serif;
 }
@@ -99,9 +89,20 @@ body {
 
 }
 
+@font-face {
+    font-family: 'UniversSBMediumClaire';
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/UniversSBMedium.woff") format('woff');
+    /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.eot") format('eot');*/
+    /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.woff") format('woff');*/
+    /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.ttf") format('truetype');*/
+    /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.svg") format('svg');*/
+}
+
 .title-name {
     color: #46a0bf;
-    font-size: 72px;
+    font-size: 36px;
     font-family: UniversSBMediumClaire;
 }
 
@@ -113,3 +114,7 @@ body {
     background-color: #eff1f1;
 }
 
+.body-container {
+    min-height: 75rem;
+    padding-top: 6rem;
+}

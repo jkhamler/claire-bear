@@ -1,12 +1,10 @@
-<div class="container-fluid navbar-white">
-
-    <nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse" role="navigation" style="background-color: white">
+    <div class="container">
         <a class='navbar-brand title-name' href='/'>Claire Horne</a>
         <a class="fas fa-bars fa-lg header-hamburger" data-target='#modalNavigation'
            data-toggle='modal'></a>
-    </nav>
-
-</div>
+    </div>
+</nav>
 
 <div class='modal fade modal-fullscreen-menu' id='modalNavigation' role='dialog' tabindex='-1'>
 
