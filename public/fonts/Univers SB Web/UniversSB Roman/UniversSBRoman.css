@@ -1,0 +1,12 @@
+/* Webfont: UniversSBRoman */@font-face {
+    font-family: 'UniversSBRoman';
+    src: url('UniversSBRoman.eot'); /* IE9 Compat Modes */
+    src: url('UniversSBRoman.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('UniversSBRoman.woff') format('woff'), /* Modern Browsers */
+         url('UniversSBRoman.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('UniversSBRoman.svg#UniversSBRoman') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

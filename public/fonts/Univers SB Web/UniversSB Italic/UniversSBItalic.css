@@ -1,0 +1,12 @@
+/* Webfont: UniversSBItalic */@font-face {
+    font-family: 'UniversSBItalic';
+    src: url('UniversSBItalic.eot'); /* IE9 Compat Modes */
+    src: url('UniversSBItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('UniversSBItalic.woff') format('woff'), /* Modern Browsers */
+         url('UniversSBItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('UniversSBItalic.svg#UniversSBItalic') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

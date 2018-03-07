@@ -1,0 +1,12 @@
+/* Webfont: UniversSBLight */@font-face {
+    font-family: 'UniversSBLight';
+    src: url('UniversSBLight.eot'); /* IE9 Compat Modes */
+    src: url('UniversSBLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('UniversSBLight.woff') format('woff'), /* Modern Browsers */
+         url('UniversSBLight.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('UniversSBLight.svg#UniversSBLight') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
