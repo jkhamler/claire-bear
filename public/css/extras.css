@@ -116,5 +116,16 @@ body {
 
 .body-container {
     min-height: 75rem;
-    padding-top: 6rem;
+    padding-top: 10rem;
+}
+
+.burger{
+    float: right;
+    position: relative;
+}
+
+.work-card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
 }
