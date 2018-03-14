@@ -1,9 +1,27 @@
 <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse" role="navigation"
      style="background-color: white">
-    <div class="container">
-        <a class='navbar-brand title-name' href='/'>Claire Horne</a>
-        <a class="fas fa-bars fa-lg header-hamburger" data-target='#modalNavigation'
-           data-toggle='modal'></a>
+    <div class="container-fluid">
+
+
+        <div class="col-1">
+            <div class="row">
+                <img src="/images/ch-icon.png" width="60" height="60    " class="d-inline-block align-top" alt="">
+            </div>
+
+        </div>
+        <div class="col-10">
+            <div class="row"><h1 class="title-name">Claire Horne</h1></div>
+            <div class="row"><h2>Creative Graphic Designer</h2></div>
+
+
+        </div>
+        <div class="col-1">
+            <div class="row" style="margin: auto;">
+                <a class="fas fa-bars fa-lg header-hamburger align-right burger" data-target='#modalNavigation'
+                   data-toggle='modal' style="float: right;">
+                </a></div>
+        </div>
+
     </div>
 </nav>
 
@@ -18,10 +36,8 @@
     {{--</button>--}}
 
     <div class="modal-content">
-        <nav class='list-group' style="width: 50%;">
+        <nav class='list-group'>
             <a class='list-group-item' href='/work'>Work</a>
             <a class='list-group-item' href='/about'>About</a>
-            <a class='list-group-item' href='/contact'>Contact</a>
-        </nav>
     </div>
 </div>

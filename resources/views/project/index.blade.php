@@ -11,20 +11,24 @@
 @endsection
 
 @section('content')
-    <p>Work Page.</p>
 
     <div class="container-fluid">
+
+
         <div class="row">
             @foreach($projects as $project)
-                <div class="card" style="width: 20rem;">
+
+                <div class="card work-card" style="width: 18rem;">
                     <img class="card-img-top" src="/images/haribo.png" alt="Card image cap">
-                    <div class="card-block">
-                        <h4 class="card-title">{{$project['name']}}</h4>
-                        <p class="card-text">{{$project['description']}}</p>
-                        <a href="{{$project['slug']}}" class="btn btn-primary">Go somewhere</a>
+                    <div class="card-body">
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                            of
+                            the card's content.</p>
                     </div>
                 </div>
+
             @endforeach
+
 
         </div>
     </div>

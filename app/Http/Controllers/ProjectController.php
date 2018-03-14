@@ -19,6 +19,10 @@ class ProjectController extends Controller
         $projects = [
             // Add more of these below
             ['name' => 'Jaeger', 'description' => 'Blah blah blah', 'slug' => '/project/jaeger'],
+            ['name' => 'Jaeger', 'description' => 'Blah blah blah', 'slug' => '/project/jaeger'],
+            ['name' => 'Jaeger', 'description' => 'Blah blah blah', 'slug' => '/project/jaeger'],
+            ['name' => 'Jaeger', 'description' => 'Blah blah blah', 'slug' => '/project/jaeger'],
+            ['name' => 'Jaeger', 'description' => 'Blah blah blah', 'slug' => '/project/jaeger'],
             ['name' => 'Waterstone', 'description' => '123 345 456', 'slug' => '/project/waterstones'],
         ];
 
