@@ -68,7 +68,7 @@ body {
 
 .modal-fullscreen-menu .list-group a:hover:before {
     transform: translate3d(0, 0, 0);
-    opacity: 1;
+    opacity: 0.8;
 }
 
 .modal-backdrop.in {
