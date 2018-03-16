@@ -18,9 +18,14 @@
     @include('navbar')
 @show
 
-<div class="container body-container">
+<div class="body-container">
     @yield('content')
 </div>
+
+@section('footer')
+    @include('footer')
+@show
+
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

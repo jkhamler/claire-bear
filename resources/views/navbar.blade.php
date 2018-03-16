@@ -10,13 +10,13 @@
 
         </div>
         <div class="col-10">
-            <div class="row"><h1 class="title-name">Claire Horne</h1></div>
-            <div class="row"><h2>Creative Graphic Designer</h2></div>
+            <div class="row" style="margin-top: 5px;"><h1 class="title-name">Claire Horne</h1></div>
+            <div class="row"><h2 class="subtitle-name">Creative Graphic Designer</h2></div>
 
 
         </div>
         <div class="col-1">
-            <div class="row" style="margin: auto;">
+            <div class="row" style="float: right">
                 <a class="fas fa-bars fa-lg header-hamburger align-right burger" data-target='#modalNavigation'
                    data-toggle='modal' style="float: right;">
                 </a></div>

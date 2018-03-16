@@ -59,7 +59,7 @@ body {
     z-index: -1;
     opacity: 0;
     transform: scale3d(0.7, 1, 1);
-    transition: transform 0.4s, opacity 0.4s;
+    transition: transform 0.4s, opacity 0.8s;
 }
 
 .modal-fullscreen-menu .list-group a:hover {
@@ -90,10 +90,10 @@ body {
 }
 
 @font-face {
-    font-family: 'UniversSBMediumClaire';
+    font-family: 'UniversSBRomanClaire';
     font-style: normal;
     font-weight: 400;
-    src: url("/fonts/UniversSBMedium.woff") format('woff');
+    src: url("/fonts/UniversSBRoman.woff") format('woff');
     /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.eot") format('eot');*/
     /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.woff") format('woff');*/
     /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.ttf") format('truetype');*/
@@ -102,8 +102,14 @@ body {
 
 .title-name {
     color: #46a0bf;
-    font-size: 36px;
-    font-family: UniversSBMediumClaire;
+    font-size: 26px;
+    font-family: UniversSBRomanClaire;
+}
+
+.subtitle-name {
+    color: #46a0bf;
+    font-size: 18px;
+    font-family: UniversSBRomanClaire;
 }
 
 .navbar-white {
@@ -116,7 +122,7 @@ body {
 
 .body-container {
     min-height: 75rem;
-    padding-top: 10rem;
+    padding-top: 7rem;
 }
 
 .burger{

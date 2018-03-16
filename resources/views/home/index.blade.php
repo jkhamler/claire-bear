@@ -11,5 +11,19 @@
 @endsection
 
 @section('content')
-    <p>Home Page.</p>
+
+    <main>
+        <div class="container">
+
+            <p>Blah blah blah</p>
+
+
+
+
+        </div>
+
+
+    </main>
+
 @endsection
+

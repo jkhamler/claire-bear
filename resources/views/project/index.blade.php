@@ -14,11 +14,10 @@
 
     <div class="container-fluid">
 
-
         <div class="row">
             @foreach($projects as $project)
 
-                <div class="card work-card" style="width: 18rem;">
+                <div class="card" style="width: 18rem; margin: 10px;">
                     <img class="card-img-top" src="/images/haribo.png" alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk
@@ -29,8 +28,9 @@
 
             @endforeach
 
-
         </div>
     </div>
+
+
 
 @endsection
