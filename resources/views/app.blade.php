@@ -8,7 +8,6 @@
 
     <link rel="stylesheet" href="/css/extras.css">
 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
 </head>
 
@@ -29,6 +28,9 @@
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+<script src="/js/extra.js"/>
+
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
@@ -39,7 +41,10 @@
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
 
+<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+
 
 </body>
 
 </html>
+

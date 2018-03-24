@@ -16,7 +16,7 @@
 Route::get('/en', 'HomeController@index');
 Route::get('/about', 'HomeController@about');
 Route::post('home/contact', 'HomeController@contact');
-Route::get('/work', 'ProjectController@index');
+Route::get('/projects', 'ProjectController@index');
 
 
 /** Project Routes - Add More Here */

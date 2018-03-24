@@ -102,13 +102,7 @@ body {
 
 .title-name {
     color: #46a0bf;
-    font-size: 26px;
-    font-family: UniversSBRomanClaire;
-}
-
-.subtitle-name {
-    color: #46a0bf;
-    font-size: 18px;
+    font-size: 22px;
     font-family: UniversSBRomanClaire;
 }
 
@@ -125,7 +119,7 @@ body {
     padding-top: 7rem;
 }
 
-.burger{
+.burger {
     float: right;
     position: relative;
 }
@@ -134,4 +128,61 @@ body {
     margin: 0 auto; /* Added */
     float: none; /* Added */
     margin-bottom: 10px; /* Added */
+}
+
+/*Nav Overlay*/
+
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    right: 0;
+    top: 0;
+    background-color: #46a0bf;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #f1f1f1;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #333333;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    right: 30px;
+    font-size: 36px;
+}
+
+@media screen and (max-height: 450px) {
+    .navMenu a {
+        font-size: 20px
+    }
+
+    .navMenu .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}
+
+.bottom-align {
+    position: relative;
+    bottom: -7px;
 }
