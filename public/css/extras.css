@@ -94,10 +94,13 @@ body {
     font-style: normal;
     font-weight: 400;
     src: url("/fonts/UniversSBRoman.woff") format('woff');
-    /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.eot") format('eot');*/
-    /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.woff") format('woff');*/
-    /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.ttf") format('truetype');*/
-    /*src: url("/public/fonts/Univers SB Web/UniversSB Medium/UniversSBMedium.svg") format('svg');*/
+}
+
+@font-face {
+    font-family: 'UniversSBLightClaire';
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/UniversSBLight.woff") format('woff');
 }
 
 .title-name {
@@ -185,4 +188,31 @@ body {
 .bottom-align {
     position: relative;
     bottom: -7px;
+}
+
+.footer-text {
+    margin-top: 20px;
+    color: #333333;
+    font-size: 12px;
+    font-family: UniversSBLightClaire;
+
+}
+
+.footer-style {
+    background-color: white;
+}
+
+.footer-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-icons{
+    color: #46a0bf;
+
+}
+.footer-icons:hover{
+    color: #333333;
+
 }
