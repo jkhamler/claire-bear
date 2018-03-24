@@ -12,14 +12,15 @@
 
 @section('content')
 
-    <div class="container-fluid">
+    <div class="container-fluid" >
 
         <div class="row" style="padding: 5px; display: flex;">
             @foreach($projects as $project)
-
-                <div style="width: 450px; margin: 10px;">
-                    <img class="card-img-top" src="{{ $project['thumbnail_path'] }}" alt="{{ $project['name'] }}">
-                </div>
+                <a href="{{ $project['url'] }}">
+                    <div style="width: 450px; margin: 10px;">
+                        <img class="card-img-top" src="{{ $project['thumbnail_path'] }}" alt="{{ $project['name'] }}">
+                    </div>
+                </a>
 
             @endforeach
         </div>

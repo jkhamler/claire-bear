@@ -38,10 +38,18 @@ class ProjectController extends Controller
         ]);
     }
 
-    public function jaeger()
+    public function allude()
     {
+        // fill in stuff
 
-        return view('project.jaeger', []);
+        $name = 'Allude';
+
+
+
+        return view('project.allude', [
+            'name' => $name
+
+        ]);
 
     }
 

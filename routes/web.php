@@ -20,5 +20,4 @@ Route::get('/projects', 'ProjectController@index');
 
 
 /** Project Routes - Add More Here */
-Route::get('/project/jaeger', 'ProjectController@jaeger');
-Route::get('/project/waterstones', 'ProjectController@waterstones');
+Route::get('/project/allude', 'ProjectController@allude');

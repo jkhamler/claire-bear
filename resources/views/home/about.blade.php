@@ -50,9 +50,17 @@
 
             <div class="col-6">
 
-                <p>I'm a multi-disciplinary graphic designer who thrives on concepts and beautiful design.
-                    I believe that simple and intelligent ideas are the foundation to creating thought
-                    provoking, successful design.</p>
+                <p>&#8211; Concept generation</p>
+                <p>&#8211; Research and moodboard</p>
+                <p>&#8211; Concept generation</p>
+                <p>&#8211; Design development</p>
+                <p>&#8211; Producing brand guidelines</p>
+                <p>&#8211; Artworking</p>
+                <p>&#8211; Print and digital</p>
+                <p>&#8211; Layout design</p>
+                <p>&#8211; Identity design</p>
+                <p>&#8211; Presentation design</p>
+                <p>&#8211; Collaboration</p>
 
             </div>
 
@@ -72,42 +80,13 @@
 
                 <div class="row" style="padding-left: 20px;">
 
-
-                    <div style="width: 70px; margin: 3px;">
-                        <img class="card-img-top" src="/images/thumbnails/Allude.jpg" alt="Allude">
-                    </div>
-
-                    <div style="width: 70px; margin: 3px;">
-                        <img class="card-img-top" src="/images/thumbnails/Allude.jpg" alt="Allude">
-                    </div>
-
-                    <div style="width: 70px; margin: 3px;">
-                        <img class="card-img-top" src="/images/thumbnails/Allude.jpg" alt="Allude">
-                    </div>
-
-                    <div style="width: 70px; margin: 3px;">
-                        <img class="card-img-top" src="/images/thumbnails/Allude.jpg" alt="Allude">
-                    </div>
-
-                    <div style="width: 70px; margin: 3px;">
-                        <img class="card-img-top" src="/images/thumbnails/Allude.jpg" alt="Allude">
-                    </div>
-
-                    <div style="width: 70px; margin: 3px;">
-                        <img class="card-img-top" src="/images/thumbnails/Allude.jpg" alt="Allude">
-                    </div>
-
-                    <div style="width: 70px; margin: 3px;">
-                        <img class="card-img-top" src="/images/thumbnails/Allude.jpg" alt="Allude">
-                    </div>
-
-                    <div style="width: 70px; margin: 3px;">
-                        <img class="card-img-top" src="/images/thumbnails/Allude.jpg" alt="Allude">
-                    </div>
-
+                    @foreach($clients as $client)
+                        <div style="width: 110px; margin: 3px; background-color: white;">
+                            <img class="card-img-top" src="{{ $client['thumbnail_path'] }}" alt="{{ $client['name'] }}">
+                        </div>
+                    @endforeach
 
                 </div>
-
 
             </div>
 
