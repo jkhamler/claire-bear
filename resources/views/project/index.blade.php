@@ -14,20 +14,14 @@
 
     <div class="container-fluid">
 
-        <div class="row">
+        <div class="row" style="padding: 5px; display: flex;">
             @foreach($projects as $project)
 
-                <div class="card" style="width: 18rem; margin: 10px;">
-                    <img class="card-img-top" src="/images/haribo.png" alt="Card image cap">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                            of
-                            the card's content.</p>
-                    </div>
+                <div style="width: 450px; margin: 10px;">
+                    <img class="card-img-top" src="{{ $project['thumbnail_path'] }}" alt="{{ $project['name'] }}">
                 </div>
 
             @endforeach
-
         </div>
     </div>
 

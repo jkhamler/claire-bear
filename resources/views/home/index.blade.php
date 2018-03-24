@@ -15,10 +15,6 @@
     <main>
         <div class="container">
 
-            <p>Blah blah blah</p>
-
-
-
 
         </div>
 

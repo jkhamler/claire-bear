@@ -29,7 +29,7 @@
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
     <div class="overlay-content">
-        <a href="/projects"n style="padding-bottom: 25px;">Projects</a>
+        <a href="/projects"n style="padding-bottom: 100px;">Projects</a>
         <a href="/about">About</a>
     </div>
 
