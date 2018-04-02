@@ -3,25 +3,37 @@
 
     <div class="container-fluid">
 
-        <div class="col-1">
-            <div class="row text-center">
-                <img src="/images/ch-icon.png" width="60" height="60" class="">
+        <div class="row" style="width: 100%;">
+
+            <div class="col-xs-3 col-md-1">
+
+                <div class="text-center">
+
+                    <img src="/images/ch-icon.png" width="60" height="60" class="">
+
+                </div>
+
+            </div>
+
+            <div class="col-xs-6 col-md-9">
+
+                <div><h1 class="title-name">Claire Horne</h1></div>
+                <div><h2 class="title-name">Creative Graphic Designer</h2></div>
+
+            </div>
+
+            <div class="col-xs-3 col-md-1">
+
+                <div class="" style="float: right" onclick="openNav()">
+                    <a class="fas fa-bars fa-lg header-hamburger align-right burger" style="float: right;"></a>
+                </div>
+
             </div>
 
         </div>
-        <div class="col-10">
-            <div class="row bottom-align"><h1 class="title-name">Claire Horne</h1></div>
-            <div class="row"><h2 class="title-name">Creative Graphic Designer</h2></div>
-        </div>
-
-        <div class="col-1">
-            <div class="row" style="float: right" onclick="openNav()">
-                <a class="fas fa-bars fa-lg header-hamburger align-right burger" style="float: right;">
-                </a></div>
-        </div>
-
 
     </div>
+
 </nav>
 
 
@@ -29,7 +41,7 @@
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
     <div class="overlay-content">
-        <a href="/projects"n style="padding-bottom: 100px;">Projects</a>
+        <a href="/projects" n style="padding-bottom: 100px;">Projects</a>
         <a href="/about">About</a>
     </div>
 

@@ -4,12 +4,12 @@
         <div class="row">
 
             <div class="col-10 footer-text">
-                <p>&#169; Claire Horne 2018 - All Rights Reserved</p>
+                <p>&#169; Claire Horne 2018</p>
             </div>
 
             <div class="col-2">
 
-                <table  style="margin-top: 8px;">
+                <table  style="margin-top: 8px; float: right;">
                     <tr>
                         <td style="padding: 10px;">
                             <a href="https://www.pinterest.co.uk/clairehorne/"><i class="fab fa-pinterest fa-lg footer-icons"></i></a>

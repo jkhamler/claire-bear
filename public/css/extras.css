@@ -6,7 +6,6 @@ body {
     font-family: UniversSBRomanClaire;
 }
 
-
 .header-hamburger {
     color: #333333;
 
@@ -30,6 +29,7 @@ body {
     color: #46a0bf;
     font-size: 22px;
     font-family: UniversSBRomanClaire;
+    letter-spacing: 0.02em;
 }
 
 .navbar-white {
@@ -50,9 +50,9 @@ body {
 }
 
 /*.work-card {*/
-    /*margin: 0 auto; !* Added *!*/
-    /*float: none; !* Added *!*/
-    /*margin-bottom: 10px; !* Added *!*/
+/*margin: 0 auto; !* Added *!*/
+/*float: none; !* Added *!*/
+/*margin-bottom: 10px; !* Added *!*/
 /*}*/
 
 /*Nav Overlay*/
@@ -117,6 +117,7 @@ body {
     color: #333333;
     font-size: 12px;
     font-family: UniversSBLightClaire;
+    letter-spacing: 0.02em;
 
 }
 
@@ -130,18 +131,20 @@ body {
     justify-content: center;
 }
 
-.footer-icons{
+.footer-icons {
     color: #46a0bf;
 
 }
-.footer-icons:hover{
+
+.footer-icons:hover {
     color: #333333;
 
 }
 
 .about-text {
     font-family: UniversSBRomanClaire;
-    color: red;
+    color: color: #333333;
+    letter-spacing: 0.02em;
 
 }
 
@@ -149,4 +152,161 @@ body {
     width: auto;
     max-width: 100%;
     width: 100%;
+}
+
+.project-title {
+    font-family: UniversSBRomanClaire;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+    color: #333333;
+}
+
+
+.project-subtitle {
+    font-family: UniversSBLightClaire;
+    color: #333333;
+    letter-spacing: 0.02em;
+}
+
+
+.read-more {
+    font-family: UniversSBLightClaire;
+    color: #333333;
+    letter-spacing: 0.02em;
+}
+
+.read-more:hover {
+    font-family: UniversSBLightClaire;
+    color: #848484;
+    letter-spacing: 0.02em;
+}
+
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f9f9f9;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.main-title {
+    color: #2d2d2d;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 0.7em 0;
+}
+
+.container {
+    padding: 1em 0;
+    float: left;
+    width: 50%;
+}
+
+@media screen and (max-width: 640px) {
+    .container {
+        display: block;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .container {
+        width: 33.33333%;
+    }
+}
+
+.content {
+    position: relative;
+    max-width: 400px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.content .content-overlay {
+    background: #46a0bf;
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+}
+
+.content:hover .content-overlay {
+    opacity: 0.95;
+}
+
+.content-image {
+    width: 100%;
+}
+
+.content-details {
+    position: absolute;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.content:hover .content-details {
+    top: 50%;
+    left: 50%;
+    opacity: 1;
+}
+
+.content-details h4 {
+    font-family: UniversSBLightClaire;
+    color: #fff;
+    letter-spacing: 0.1em;
+}
+
+.content-details h5 {
+    font-family: UniversSBLightClaire;
+    color: #fff;
+    font-size: 1em;
+    letter-spacing: 0.1em;
+}
+
+.fadeIn-bottom {
+    top: 80%;
+}
+
+#overlay {
+    opacity: 0.95;
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #cccccc; /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+#text {
+    color: #333333;
+    letter-spacing: 0.02em;
 }
