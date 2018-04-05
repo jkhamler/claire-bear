@@ -13,3 +13,15 @@ function on() {
 function off() {
     document.getElementById("overlay").style.display = "none";
 }
+
+// Accordion Toggle
+
+$("#headingOne").click(function () {
+    $("#chevronOne").toggleClass("fa-chevron-down fa-chevron-up");
+});
+$("#headingTwo").click(function () {
+    $("#chevronTwo").toggleClass("fa-chevron-down fa-chevron-up");
+});
+$("#headingThree").click(function () {
+    $("#chevronThree").toggleClass("fa-chevron-down fa-chevron-up");
+});
