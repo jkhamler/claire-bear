@@ -32,6 +32,13 @@
 
         </div>
 
+        <div class="col-12" style="padding: 0px;">
+
+            <a href="#"><i class="fas fa-chevron-up"></i></a>
+
+
+        </div>
+
     </div>
 
 
