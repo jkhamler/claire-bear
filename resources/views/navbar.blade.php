@@ -1,5 +1,5 @@
 <nav class="navbar navbar-light bg-light justify-content-between">
-    <img src="/images/ch_nav.png" height="60" class="">
+    <a href="/projects"><img src="/images/ch_nav.png" height="60" class=""></a>
 
     <div onclick="openNav()">
         <a class="fas fa-bars fa-lg header-hamburger align-right burger" style="float: right;"></a>

@@ -2,16 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-
 class HomeController extends Controller
 {
-    //
-
     public function index()
     {
-
-        return view('home.index', []);
+        return redirect('projects');
     }
 
     public function about()
@@ -35,19 +30,5 @@ class HomeController extends Controller
             'clients' => $clients
         ]);
     }
-
-    public function contact(Request $request)
-    {
-
-//        echo '<pre>';
-//        print_r($request->input('name'));
-//        echo '</pre>';
-//        exit;
-
-        $emailSent = mail('jkhamler@gmail.com', 'Blah', 'SGSGSG');
-
-
-    }
-
 
 }
