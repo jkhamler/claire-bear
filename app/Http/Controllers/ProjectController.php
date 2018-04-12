@@ -40,118 +40,118 @@ class ProjectController extends Controller
 
     public function allude()
     {
-        $name = 'Allude';
+        $projectTitle = 'Allude';
 
         return view('project.allude', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function bmm()
     {
-        $name = 'BMM';
+        $projectTitle = 'BMM';
 
         return view('project.bmm', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function curraghs()
     {
-        $name = 'Curraghs';
+        $projectTitle = 'Curraghs';
 
         return view('project.curraghs', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function faEngland()
     {
-        $name = 'FA England';
+        $projectTitle = 'FA England';
 
         return view('project.fa-england', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function girlInABlueDress()
     {
-        $name = 'Girl in a Blue Dress';
+        $projectTitle = 'Girl in a Blue Dress';
 
         return view('project.girl-in-a-blue-dress', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function historyOfMagic()
     {
-        $name = 'History of Magic';
+        $projectTitle = 'History of Magic';
 
         return view('project.history-of-magic', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function horniman()
     {
-        $name = 'Horniman';
+        $projectTitle = 'Horniman';
 
         return view('project.horniman', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function metamorphosis()
     {
-        $name = 'Metamorphosis';
+        $projectTitle = 'Metamorphosis';
 
         return view('project.metamorphosis', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function ntBiddulph()
     {
-        $name = 'NT Biddulph';
+        $projectTitle = 'NT Biddulph';
 
         return view('project.nt-biddulph', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function ntNostell()
     {
-        $name = 'NT Nostell';
+        $projectTitle = 'NT Nostell';
 
         return view('project.nt-nostell', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function rmg()
     {
-        $name = 'RMG';
+        $projectTitle = 'RMG';
 
         return view('project.rmg', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function valentino()
     {
-        $name = 'Valentino';
+        $projectTitle = 'Valentino';
 
         return view('project.valentino', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 
     public function viridor()
     {
-        $name = 'Viridor';
+        $projectTitle = 'Viridor';
 
         return view('project.viridor', [
-            'name' => $name
+            'projectTitle' => $projectTitle
         ]);
     }
 }

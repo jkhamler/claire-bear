@@ -7,7 +7,7 @@
 
         <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
 
-            <div style="padding-top: 25px;"><h4 class="project-title">NT Biddulph Grange Garden</h4></div>
+            <div style="padding-top: 25px;"><h4 class="project-title">{{ $projectTitle }}</h4></div>
             <div><p class="project-subtitle">Lorem ipsum dolor sit amet, no vix tantas suscipit delicata, mel quas
                     congue ne. Ex usu evertitur temporibus, postea nusquam ut cum.</p></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>

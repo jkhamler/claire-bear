@@ -11,7 +11,6 @@
 |
 */
 
-
 /** Home Pages (about, contact, work) */
 Route::get('/', 'HomeController@index');
 Route::get('/about', 'HomeController@about');
