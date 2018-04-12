@@ -1,39 +1,9 @@
-<nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse" role="navigation"
-     style="background-color: white">
+<nav class="navbar navbar-light bg-light justify-content-between">
+    <img src="/images/ch_nav.png" height="60" class="">
 
-    <div class="container-fluid">
-
-        <div class="row" style="width: 100%;">
-
-            <div class="col-xs-3 col-md-1">
-
-                <div class="text-center">
-
-                    <img src="/images/ch-icon.png" width="60" height="60" class="">
-
-                </div>
-
-            </div>
-
-            <div class="col-xs-6 col-md-9">
-
-                <div><h1 class="title-name">Claire Horne</h1></div>
-                <div><h2 class="title-name">Creative Graphic Designer</h2></div>
-
-            </div>
-
-            <div class="col-xs-3 col-md-1">
-
-                <div class="" style="float: right" onclick="openNav()">
-                    <a class="fas fa-bars fa-lg header-hamburger align-right burger" style="float: right;"></a>
-                </div>
-
-            </div>
-
-        </div>
-
+    <div onclick="openNav()">
+        <a class="fas fa-bars fa-lg header-hamburger align-right burger" style="float: right;"></a>
     </div>
-
 </nav>
 
 
