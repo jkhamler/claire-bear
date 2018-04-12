@@ -20,7 +20,7 @@ class ProjectController extends Controller
             ['name' => 'BMM', 'description' => 'Exhibition Design', 'url' => '/project/bmm', 'thumbnail_path' => '/images/thumbnails/BMM.jpg'],
             ['name' => 'Curraghs', 'description' => 'Exhibition Design', 'url' => '/project/curraghs', 'thumbnail_path' => '/images/thumbnails/Curraghs.jpg'],
             ['name' => 'FA England', 'description' => 'Exhibition Design', 'url' => '/project/fa-england', 'thumbnail_path' => '/images/thumbnails/FA_England_Packaging.jpg'],
-            ['name' => 'Girl Blue Dress', 'description' => 'Exhibition Design', 'url' => '/project/girl-blue-dress', 'thumbnail_path' => '/images/thumbnails/Girl_Blue_Dress.jpg'],
+            ['name' => 'Girl Blue Dress', 'description' => 'Exhibition Design', 'url' => '/project/girl-in-a-blue-dress', 'thumbnail_path' => '/images/thumbnails/Girl_Blue_Dress.jpg'],
             ['name' => 'History of Magic', 'description' => 'Exhibition Design', 'url' => '/project/history-of-magic', 'thumbnail_path' => '/images/thumbnails/history_magic.jpg'],
             ['name' => 'Horniman', 'description' => 'Exhibition Design', 'url' => '/project/horniman', 'thumbnail_path' => '/images/thumbnails/Horniman.jpg'],
             ['name' => 'Metamorphosis', 'description' => 'Exhibition Design', 'url' => '/project/metamorphosis', 'thumbnail_path' => '/images/thumbnails/Metamorphosis.jpg'],
@@ -40,22 +40,118 @@ class ProjectController extends Controller
 
     public function allude()
     {
-        // fill in stuff
-
         $name = 'Allude';
-
 
         return view('project.allude', [
             'name' => $name
-
         ]);
-
     }
 
-    public function waterstones()
+    public function bmm()
     {
+        $name = 'BMM';
 
-        return view('project.waterstones', []);
+        return view('project.bmm', [
+            'name' => $name
+        ]);
+    }
 
+    public function curraghs()
+    {
+        $name = 'Curraghs';
+
+        return view('project.curraghs', [
+            'name' => $name
+        ]);
+    }
+
+    public function faEngland()
+    {
+        $name = 'FA England';
+
+        return view('project.fa-england', [
+            'name' => $name
+        ]);
+    }
+
+    public function girlInABlueDress()
+    {
+        $name = 'Girl in a Blue Dress';
+
+        return view('project.girl-in-a-blue-dress', [
+            'name' => $name
+        ]);
+    }
+
+    public function historyOfMagic()
+    {
+        $name = 'History of Magic';
+
+        return view('project.history-of-magic', [
+            'name' => $name
+        ]);
+    }
+
+    public function horniman()
+    {
+        $name = 'Horniman';
+
+        return view('project.horniman', [
+            'name' => $name
+        ]);
+    }
+
+    public function metamorphosis()
+    {
+        $name = 'Metamorphosis';
+
+        return view('project.metamorphosis', [
+            'name' => $name
+        ]);
+    }
+
+    public function ntBiddulph()
+    {
+        $name = 'NT Biddulph';
+
+        return view('project.nt-biddulph', [
+            'name' => $name
+        ]);
+    }
+
+    public function ntNostell()
+    {
+        $name = 'NT Nostell';
+
+        return view('project.nt-nostell', [
+            'name' => $name
+        ]);
+    }
+
+    public function rmg()
+    {
+        $name = 'RMG';
+
+        return view('project.rmg', [
+            'name' => $name
+        ]);
+    }
+
+    public function valentino()
+    {
+        $name = 'Valentino';
+
+        return view('project.valentino', [
+            'name' => $name
+        ]);
+    }
+
+    public function viridor()
+    {
+        $name = 'Viridor';
+
+        return view('project.viridor', [
+            'name' => $name
+        ]);
     }
 }

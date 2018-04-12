@@ -16,8 +16,27 @@
 Route::get('/', 'HomeController@index');
 Route::get('/about', 'HomeController@about');
 Route::post('home/contact', 'HomeController@contact');
-Route::get('/projects', 'ProjectController@index');
+Route::get('projects', 'ProjectController@index');
 
 
 /** Project Routes - Add More Here */
-Route::get('/project/allude', 'ProjectController@allude');
+
+Route::prefix('project')->group(function () {
+
+    Route::get('/allude', 'ProjectController@allude');
+    Route::get('/bmm', 'ProjectController@bmm');
+    Route::get('/curraghs', 'ProjectController@curraghs');
+    Route::get('/fa-england', 'ProjectController@faEngland');
+    Route::get('/girl-in-a-blue-dress', 'ProjectController@girlInABlueDress');
+    Route::get('/history-of-magic', 'ProjectController@historyOfMagic');
+    Route::get('/horniman', 'ProjectController@horniman');
+    Route::get('/metamorphosis', 'ProjectController@metamorphosis');
+    Route::get('/nt-biddulph', 'ProjectController@ntBiddulph');
+    Route::get('/nt-nostell', 'ProjectController@ntNostell');
+    Route::get('/rmg', 'ProjectController@rmg');
+    Route::get('/valentino', 'ProjectController@valentino');
+    Route::get('/viridor', 'ProjectController@viridor');
+
+});
+
+
