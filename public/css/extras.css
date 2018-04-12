@@ -211,7 +211,7 @@ body {
 .content .content-overlay {
     background: #46a0bf;
     position: absolute;
-    height: 99%;
+    height: 100%;
     width: 100%;
     left: 0;
     top: 0;
