@@ -33,7 +33,7 @@
         <div class="d-flex justify-content-between">
             <div></div>
             <div>
-                <a href="#"><i class="fas fa-chevron-up"></i></a>
+                <a href="#"><i class="fas fa-chevron-circle-up"></i></a>
             </div>
         </div>
 

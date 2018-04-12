@@ -47,30 +47,21 @@
                                     <div class="panel-body col-xs-11 col-sm-8 col-md-7 col-lg-5">
 
                                         <p>I'm a multi-disciplinary graphic designer who thrives on concepts and
-                                            beautiful
-                                            design.
-                                            I believe that simple and intelligent ideas are the foundation to creating
-                                            thought
-                                            provoking, successful design.</p>
+                                            beautiful design. I believe that simple and intelligent ideas are the
+                                            foundation for creating thought-provoking, successful design. I enjoy
+                                            creating graphics that work across multiple platforms.</p>
 
-                                        <p>With experience of working in a design studio and as a client facing designer
-                                            <I></I>
-                                            am able to
-                                            develop branding and concepts that are realistic and achievable.</p>
+                                        <p>With the experience of working in design studios and as a client facing
+                                            designer, I am able to develop designs that are realistic and
+                                            achievable.</p>
 
-                                        <p>I have a passion for concepts, typography, layout and identities. I am able
-                                            to
-                                            work across
+                                        <p>I have a passion for typography, layout and identities. I am able to work on
                                             all design stages; pitching, concepts, design development, production and
-                                            artworking.
-                                            I enjoy creating graphics that can work across multiple platforms. </p>
+                                            artworking.</p>
+
                                     </div>
                                 </div>
-
-
                             </div>
-
-
                         </div>
 
                         <div class="border-bottom" style="margin-bottom: 10px;">
@@ -98,16 +89,15 @@
                                     <div class="panel-body col-xs-11 col-sm-8 col-md-7 col-lg-5">
 
                                         <p>&#8211; Concept generation</p>
-                                        <p>&#8211; Research and moodboard</p>
-                                        <p>&#8211; Concept generation</p>
+                                        <p>&#8211; Research and moodboard generation</p>
                                         <p>&#8211; Design development</p>
-                                        <p>&#8211; Producing brand guidelines</p>
+                                        <p>&#8211; Creating brand guidelines</p>
                                         <p>&#8211; Artworking</p>
-                                        <p>&#8211; Print and digital</p>
+                                        <p>&#8211; Print and digital design</p>
                                         <p>&#8211; Layout design</p>
                                         <p>&#8211; Identity design</p>
                                         <p>&#8211; Presentation design</p>
-                                        <p>&#8211; Collaboration</p>
+                                        <p>&#8211; Exhibition design</p>
 
                                     </div>
 
@@ -192,19 +182,33 @@
                                         <div class="col-xs-1 col-sm-3 col-md-4 col-lg-5"></div>
                                         <div class="panel-body col-xs-11 col-sm-8 col-md-7 col-lg-5">
 
-                                            <p>I'm always interested to hear about exciting opportunities and projects
-                                                so please
-                                                don't hesitate to
-                                                contact me.</p>
+                                            <p>Please contact me for a PDF portfolio (this contains projects that I
+                                                can't share online).</p>
 
-                                            <p>Phone: +44 (0) 7930 483336</p>
+                                            <p>I'm always interested to hear about exciting opportunities and projects
+                                                so don't hesitate to contact me.</p>
+
+                                            <p>Phone: +44 (0) 793 048 3336</p>
 
                                             <p>Email: <a href="mailto:hello@clairehorne.co.uk?Subject=Hello"
                                                          style="color: #333333;"
                                                          target="_top">hello@clairehorne.co.uk</a>
                                             </p>
+
+                                            <p>CV (PDF):
+                                                <a href="/pdf/ClaireHorneCV.pdf" download>
+                                                    <i class="far fa-file-pdf fa-2x"></i>
+                                                </a>
+
+                                            </p>
+
+
+
+
                                         </div>
                                     </div>
+                                    <br/>
+
                                 </div>
                             </div>
                         </div>

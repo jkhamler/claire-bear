@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Claire Horne - Creative Graphic Designer</title>
+    <title>Claire Horne | Creative Graphic Designer</title>
 
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Roberto">
@@ -11,6 +11,12 @@
 
     <link rel="stylesheet" href="/css/extras.css">
 
+    <link rel="icon"
+          type="image/png"
+          href="/images/ch-icon.png">
+
+    <meta name="description"
+          content="Claire is a London based Creative Graphic Designer with the experience of working on a wide range of projects. She has a BA (Hons) from Camberwell Collage of Arts, an MA from Central Saint Martins and has been awarded an MISTD in typography.">
 
 </head>
 
@@ -49,6 +55,20 @@
 
 
 <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40864840-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-40864840-1');
+</script>
 
 </body>
 
