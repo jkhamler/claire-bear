@@ -14,7 +14,7 @@
 
     <div class="container-fluid">
 
-        <div class="col-12">
+        <div class="row-fluid">
 
             <br/>
 
@@ -43,8 +43,8 @@
                                  aria-labelledby="headingOne">
                                 <div class="row">
 
-                                    <div class="col-5"></div>
-                                    <div class="panel-body col-5">
+                                    <div class="col-xs-1 col-sm-3 col-md-4 col-lg-5"></div>
+                                    <div class="panel-body col-xs-11 col-sm-8 col-md-7 col-lg-5">
 
                                         <p>I'm a multi-disciplinary graphic designer who thrives on concepts and
                                             beautiful
@@ -54,7 +54,7 @@
                                             provoking, successful design.</p>
 
                                         <p>With experience of working in a design studio and as a client facing designer
-                                            I
+                                            <I></I>
                                             am able to
                                             develop branding and concepts that are realistic and achievable.</p>
 
@@ -94,11 +94,8 @@
                                  aria-labelledby="headingTwo">
                                 <div class='row'>
 
-                                    <div class="col-5">
-
-                                    </div>
-
-                                    <div class="panel-body col-5">
+                                    <div class="col-xs-1 col-sm-3 col-md-4 col-lg-5"></div>
+                                    <div class="panel-body col-xs-11 col-sm-8 col-md-7 col-lg-5">
 
                                         <p>&#8211; Concept generation</p>
                                         <p>&#8211; Research and moodboard</p>
@@ -145,11 +142,8 @@
 
                                     <div class="row">
 
-                                        <div class="col-5">
-
-                                        </div>
-
-                                        <div class="col-5">
+                                        <div class="col-xs-1 col-sm-3 col-md-4 col-lg-5"></div>
+                                        <div class="panel-body col-xs-11 col-sm-8 col-md-7 col-lg-5">
 
                                             @foreach($clients as $client)
                                                 <img src="{{ $client['thumbnail_path'] }}"
@@ -194,11 +188,9 @@
                                 <div class="panel-body">
 
                                     <div class="row">
-                                        <div class="col-5">
 
-                                        </div>
-
-                                        <div class="col-5">
+                                        <div class="col-xs-1 col-sm-3 col-md-4 col-lg-5"></div>
+                                        <div class="panel-body col-xs-11 col-sm-8 col-md-7 col-lg-5">
 
                                             <p>I'm always interested to hear about exciting opportunities and projects
                                                 so please

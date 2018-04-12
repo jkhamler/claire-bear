@@ -24,24 +24,24 @@
 
         </div>
 
-        <div class="col-12" style="padding: 0px;">
 
-            <a href="#"><i class="fas fa-chevron-up"></i></a>
+        <div class="row">
 
 
         </div>
 
-    </div>
-
-
-
-    <div class="container-fluid">
-
-        <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
-
+        <div class="d-flex justify-content-between">
+            <div></div>
+            <div>
+                <a href="#"><i class="fas fa-chevron-up"></i></a>
+            </div>
         </div>
 
+        <br/>
+
+
     </div>
+
 
 
     <div id="overlay" onclick="off()">
@@ -62,7 +62,7 @@
                         <div class="col">
 
                             <div id="text"><h3>Project title</h3></div>
-                            <div id="text"><h5>Exhibtion Design</h5></div>
+                            <div id="text"><h5>Exhibition Design</h5></div>
 
                             <div style="padding-top: 20px;">
                                 <div id="text">
@@ -94,11 +94,6 @@
 
 
                 </div>
-
-                <div class="col-xs-1 col-sm-2 col-md-2 col-lg-3">
-
-                </div>
-
 
             </div>
         </div>
