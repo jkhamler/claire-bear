@@ -1,35 +1,18 @@
 body {
-    font-family: UniversSBLightClaire;
+    font-family: Roberto, Impact;
 }
 
-.about-subheading {
-    font-family: UniversSBRomanClaire;
+.panel-body{
+    font-family: Roberto;
+}
+
+.panel-title{
+    font-family: Roberto;
 }
 
 .header-hamburger {
     color: #333333;
 
-}
-
-@font-face {
-    font-family: 'UniversSBRomanClaire';
-    font-style: normal;
-    font-weight: 400;
-    src: url("/fonts/UniversSBRoman.woff") format('woff');
-}
-
-@font-face {
-    font-family: 'UniversSBLightClaire';
-    font-style: normal;
-    font-weight: 400;
-    src: url("/fonts/UniversSBLight.woff") format('woff');
-}
-
-.title-name {
-    color: #46a0bf;
-    font-size: 22px;
-    font-family: UniversSBRomanClaire;
-    letter-spacing: 0.02em;
 }
 
 .navbar-white {
@@ -49,11 +32,9 @@ body {
     position: relative;
 }
 
-/*.work-card {*/
-/*margin: 0 auto; !* Added *!*/
-/*float: none; !* Added *!*/
-/*margin-bottom: 10px; !* Added *!*/
-/*}*/
+#text{
+    font-family: Roberto;
+}
 
 /*Nav Overlay*/
 
@@ -70,6 +51,7 @@ body {
 }
 
 .overlay-content {
+    font-family: Roberto;
     position: relative;
     top: 25%;
     width: 100%;
@@ -116,7 +98,7 @@ body {
     margin-top: 20px;
     color: #333333;
     font-size: 12px;
-    font-family: UniversSBLightClaire;
+    font-family: Roberto;
     letter-spacing: 0.02em;
 
 }
@@ -142,8 +124,8 @@ body {
 }
 
 .about-text {
-    font-family: UniversSBRomanClaire;
-    color: color: #333333;
+    font-family: Roberto;
+    color: #333333;
     letter-spacing: 0.02em;
 
 }
@@ -155,28 +137,26 @@ body {
 }
 
 .project-title {
-    font-family: UniversSBRomanClaire;
+    font-family: Roberto;
     font-size: 18px;
     letter-spacing: 0.02em;
     color: #333333;
 }
 
-
 .project-subtitle {
-    font-family: UniversSBLightClaire;
+    font-family: Roberto;
     color: #333333;
     letter-spacing: 0.02em;
 }
 
-
 .read-more {
-    font-family: UniversSBLightClaire;
+    font-family: Roberto;
     color: #333333;
     letter-spacing: 0.02em;
 }
 
 .read-more:hover {
-    font-family: UniversSBLightClaire;
+    font-family: Roberto;
     color: #848484;
     letter-spacing: 0.02em;
 }
@@ -275,13 +255,13 @@ body {
 }
 
 .content-details h4 {
-    font-family: UniversSBLightClaire;
+    font-family: Roberto;
     color: #fff;
     letter-spacing: 0.1em;
 }
 
 .content-details h5 {
-    font-family: UniversSBLightClaire;
+    font-family: Roberto;
     color: #fff;
     font-size: 1em;
     letter-spacing: 0.1em;
@@ -309,69 +289,4 @@ body {
 #text {
     color: #333333;
     letter-spacing: 0.02em;
-}
-
-
-/*body {*/
-    /*padding: 30px;*/
-/*}*/
-
-/*html {*/
-    /*overflow-y: scroll;*/
-/*}*/
-
-/*body {*/
-    /*background: #EFEFEF;*/
-/*}*/
-
-/*ul {*/
-    /*margin-bottom: 0;*/
-/*}*/
-
-/*.accordion {*/
-    /*background: #FFF;*/
-    /*border-radius: 5px;*/
-    /*padding: 30px;*/
-/*}*/
-
-/*.question {*/
-    /*border-top: 1px solid #EEE;*/
-    /*padding: 20px;*/
-    /*cursor: pointer;*/
-    /*position: relative;*/
-/*}*/
-
-/*.question h2 {*/
-    /*font-size: 20px;*/
-    /*margin: 0;*/
-    /*color: #C00C00;*/
-/*}*/
-
-/*.question span {*/
-    /*position: absolute;*/
-    /*right: 20px;*/
-    /*top: 0;*/
-    /*height: 100%;*/
-    /*display: flex;*/
-    /*align-items: center;*/
-    /*color: #C00C00;*/
-    /*transition: .75s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;*/
-/*}*/
-
-/*.answer {*/
-    /*max-height: 0;*/
-    /*overflow: hidden;*/
-    /*transition: .75s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;*/
-/*}*/
-
-/*.answer p {*/
-    /*padding: 20px;*/
-/*}*/
-
-/*.accordion li.open .question span {*/
-    /*transform: rotate(180deg);*/
-/*}*/
-
-/*.accordion li.open .answer {*/
-    /*max-height: 150px;*/
 }
