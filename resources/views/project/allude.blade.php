@@ -7,21 +7,53 @@
 
         <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
 
-            <div style="padding-top: 25px;"><h4 class="project-title">{{ $projectTitle }}</h4></div>
-            <div><p class="project-subtitle">Lorem ipsum dolor sit amet, no vix tantas suscipit delicata, mel quas
-                    congue ne. Ex usu evertitur temporibus, postea nusquam ut cum.</p></div>
+            <div style="padding-top: 25px;"><h4 class="project-title">Allude Cashmere – Retail Campaign</h4></div>
+            <div><p class="project-subtitle">Allude Cashmere released a range of different colours for their most
+                    popular jumper. The project highlighted 1 Pullover with 50 colours. The concept was simple and bold
+                    – using a grid of 50 colours. This grid could be used across multiple applications and medium.</p>
+            </div>
+
+            <div>Deliverables</div>
+
+            <ul>
+                <li>Visual identity and assets</li>
+                <li>Marketing materials</li>
+                <li>Window scheme</li>
+
+            </ul>
+            <div>Role</div>
+
+            <ul>
+                <li>Graphic designer</li>
+
+            </ul>
+            <div>Studio</div>
+
+            <ul>
+                <li>Bibliothèque</li>
+
+            </ul>
+
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
 
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/cat.jpg" class="scale-img" style="padding-top: 15px;"/>
-
+            <img src="/images/projects/allude/Allude_1_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/cat.jpg" class="scale-img" style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/allude/Allude_2_1x.jpg" class="scale-img"
+                 style="padding-top: 15px; padding-bottom: 15px;"/>
+        </div>
 
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/allude/Allude_3_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/allude/Allude_4_1x.jpg" class="scale-img"
+                 style="padding-top: 15px; padding-bottom: 15px;"/>
         </div>
 
 
