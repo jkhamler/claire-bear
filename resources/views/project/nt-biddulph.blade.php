@@ -7,21 +7,18 @@
 
         <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
 
-            <div style="padding-top: 25px;"><h4 class="project-title">NT Biddulph Grange Garden</h4></div>
-            <div><p class="project-subtitle">Lorem ipsum dolor sit amet, no vix tantas suscipit delicata, mel quas
-                    congue ne. Ex usu evertitur temporibus, postea nusquam ut cum.</p></div>
+            <div style="padding-top: 25px;"><h4 class="project-title">National Trust, Biddulph Grange Garden – Visual language</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
 
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/cat.jpg" class="scale-img" style="padding-top: 15px;"/>
-
+            <img src="/images/projects/nt_biddulph/Biddulph_2_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/cat.jpg" class="scale-img" style="padding-top: 15px; padding-bottom: 15px;"/>
-
+            <img src="/images/projects/nt_biddulph/Biddulph_5_1x.jpg" class="scale-img"
+                 style="padding-top: 15px; padding-bottom: 15px;"/>
         </div>
 
 
@@ -61,35 +58,38 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>Project title</h3></div>
-                            <div id="text"><h5>Exhibition Design</h5></div>
+                            <div id="text"><h3>National Trust, Biddulph Grange Garden</h3></div>
+                            <div id="text"><h5>Visual Language</h5></div>
 
                             <div style="padding-top: 20px;">
-                                <div id="text">
-                                    In a professional context it often happens that private or corporate clients corder
-                                    a
-                                    publication to be
-                                    made and presented with the actual content still not being ready. Think of a news
-                                    blog that's
-                                    filled
-                                    with content hourly on the day of going live. However, reviewers tend to be
-                                    distracted by
-                                    comprehensible
-                                    content, say, a random text copied from a newspaper or the internet. The are likely
-                                    to focus on
-                                    the
-                                    text, disregarding the layout and its elements. Besides, random text risks to be
-                                    unintendedly
-                                    humorous
-                                    or offensive, an unacceptable risk in corporate environments. Lorem ipsum and its
-                                    many variants
-                                    have
-                                    been employed since the early 1960ies, and quite likely since the sixteenth century.
+                                <div id="text">Biddulph Grange Garden is a quirky, playful, paradise and the visual language highlights this. It takes inspiration from Victorian photo montage – fantastical with intriguing juxtapositions. This was part of the National Trust's scheme allowing each property to have it's own 'spirit of place' whilst remaining within the parent brand.
                                 </div>
                             </div>
 
+                            <br/>
+
+                            <div id="text">
+                                <h5>Deliverables</h5>
+                                <p>– Visual identity and assets</p>
+                                <p>– Interpretation design</p>
+                                <p>– Marketing materials</p>
+                                <p>– Merchandise</p>
+                                <p>– Brand guidelines </p>
+                            </div>
+
+                            <div id="text">
+                                <h5>Role</h5>
+                                <p>- Lead graphic designer</p>
+                            </div>
+
+                            <div id="text">
+                                <h5>Studio</h5>
+                                <p>- Easy Tiger Creative</p>
+                            </div>
 
                         </div>
+
+
                     </div>
 
 
