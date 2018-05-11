@@ -40,118 +40,79 @@ class ProjectController extends Controller
 
     public function allude()
     {
-        $projectTitle = 'Allude';
-
         return view('project.allude', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function bmm()
     {
-        $projectTitle = 'BMM';
-
         return view('project.bmm', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function curraghs()
     {
-        $projectTitle = 'Curraghs';
-
         return view('project.curraghs', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function faEngland()
     {
-        $projectTitle = 'FA England';
-
         return view('project.fa-england', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function girlInABlueDress()
     {
-        $projectTitle = 'Girl in a Blue Dress';
-
         return view('project.girl-in-a-blue-dress', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function historyOfMagic()
     {
-        $projectTitle = 'History of Magic';
-
         return view('project.history-of-magic', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function horniman()
     {
-        $projectTitle = 'Horniman';
-
         return view('project.horniman', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function metamorphosis()
     {
-        $projectTitle = 'Metamorphosis';
-
         return view('project.metamorphosis', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function ntBiddulph()
     {
-        $projectTitle = 'NT Biddulph';
-
         return view('project.nt-biddulph', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function ntNostell()
     {
-        $projectTitle = 'NT Nostell';
-
         return view('project.nt-nostell', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function rmg()
     {
-        $projectTitle = 'RMG';
-
         return view('project.rmg', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function valentino()
     {
-        $projectTitle = 'Valentino';
-
         return view('project.valentino', [
-            'projectTitle' => $projectTitle
         ]);
     }
 
     public function viridor()
     {
-        $projectTitle = 'Viridor';
-
         return view('project.viridor', [
-            'projectTitle' => $projectTitle
         ]);
     }
 }
