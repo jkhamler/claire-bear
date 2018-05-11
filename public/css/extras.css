@@ -1,13 +1,13 @@
 body {
-    font-family: Roberto, Impact;
+    font-family: Roboto, Impact;
 }
 
 .panel-body{
-    font-family: Roberto;
+    font-family: Roboto;
 }
 
 .panel-title{
-    font-family: Roberto;
+    font-family: Roboto;
 }
 
 .header-hamburger {
@@ -33,7 +33,7 @@ body {
 }
 
 #text{
-    font-family: Roberto;
+    font-family: Roboto;
 }
 
 /*Nav Overlay*/
@@ -51,7 +51,7 @@ body {
 }
 
 .overlay-content {
-    font-family: Roberto;
+    font-family: Roboto;
     position: relative;
     top: 25%;
     width: 100%;
@@ -98,7 +98,7 @@ body {
     margin-top: 20px;
     color: #333333;
     font-size: 12px;
-    font-family: Roberto;
+    font-family: Roboto;
     letter-spacing: 0.02em;
 
 }
@@ -124,7 +124,7 @@ body {
 }
 
 .about-text {
-    font-family: Roberto;
+    font-family: Roboto;
     color: #333333;
     letter-spacing: 0.02em;
 
@@ -137,26 +137,26 @@ body {
 }
 
 .project-title {
-    font-family: Roberto;
+    font-family: Roboto;
     font-size: 18px;
     letter-spacing: 0.02em;
     color: #333333;
 }
 
 .project-subtitle {
-    font-family: Roberto;
+    font-family: Roboto;
     color: #333333;
     letter-spacing: 0.02em;
 }
 
 .read-more {
-    font-family: Roberto;
+    font-family: Roboto;
     color: #333333;
     letter-spacing: 0.02em;
 }
 
 .read-more:hover {
-    font-family: Roberto;
+    font-family: Roboto;
     color: #848484;
     letter-spacing: 0.02em;
 }
@@ -255,13 +255,13 @@ body {
 }
 
 .content-details h4 {
-    font-family: Roberto;
+    font-family: Roboto;
     color: #fff;
     letter-spacing: 0.1em;
 }
 
 .content-details h5 {
-    font-family: Roberto;
+    font-family: Roboto;
     color: #fff;
     font-size: 1em;
     letter-spacing: 0.1em;

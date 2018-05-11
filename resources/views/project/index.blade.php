@@ -8,7 +8,6 @@
 
         <div class="row" style="padding: 10px;">
 
-
             @foreach($projects as $project)
 
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3" style="padding: 0px;">
