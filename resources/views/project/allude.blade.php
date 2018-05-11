@@ -8,31 +8,6 @@
         <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
 
             <div style="padding-top: 25px;"><h4 class="project-title">Allude Cashmere – Retail Campaign</h4></div>
-            <div><p class="project-subtitle">Allude Cashmere released a range of different colours for their most
-                    popular jumper. The project highlighted 1 Pullover with 50 colours. The concept was simple and bold
-                    – using a grid of 50 colours. This grid could be used across multiple applications and medium.</p>
-            </div>
-
-            <div>Deliverables</div>
-
-            <ul>
-                <li>Visual identity and assets</li>
-                <li>Marketing materials</li>
-                <li>Window scheme</li>
-
-            </ul>
-            <div>Role</div>
-
-            <ul>
-                <li>Graphic designer</li>
-
-            </ul>
-            <div>Studio</div>
-
-            <ul>
-                <li>Bibliothèque</li>
-
-            </ul>
 
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
 
@@ -93,35 +68,35 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>Project title</h3></div>
-                            <div id="text"><h5>Exhibition Design</h5></div>
+                            <div id="text"><h3>Allude Cashmere</h3></div>
+                            <div id="text"><h5>Retail Campaign</h5></div>
 
                             <div style="padding-top: 20px;">
-                                <div id="text">
-                                    In a professional context it often happens that private or corporate clients corder
-                                    a
-                                    publication to be
-                                    made and presented with the actual content still not being ready. Think of a news
-                                    blog that's
-                                    filled
-                                    with content hourly on the day of going live. However, reviewers tend to be
-                                    distracted by
-                                    comprehensible
-                                    content, say, a random text copied from a newspaper or the internet. The are likely
-                                    to focus on
-                                    the
-                                    text, disregarding the layout and its elements. Besides, random text risks to be
-                                    unintendedly
-                                    humorous
-                                    or offensive, an unacceptable risk in corporate environments. Lorem ipsum and its
-                                    many variants
-                                    have
-                                    been employed since the early 1960ies, and quite likely since the sixteenth century.
+                                <div id="text">Allude Cashmere released a range of different colours for their most popular jumper.  The project highlighted 1 Pullover with 50 colours. The concept was simple and bold – using a grid of 50 colours. This grid could be used across multiple applications and medium.
                                 </div>
                             </div>
 
+                            <br/>
+
+                            <div id="text">
+                                <h5>Deliverables</h5>
+                                    <p>- Visual identity and assets</p>
+                                    <p>- Marketing materials</p>
+                                    <p>- Window scheme</p>
+                            </div>
+
+                            <div id="text">
+                                <h5>Role</h5>
+                                <p>- Graphic designer</p>
+                            </div>
+
+                            <div id="text">
+                                <h5>Studio</h5>
+                                <p>- Bibliothèque</p>
+                            </div>
 
                         </div>
+
                     </div>
 
 

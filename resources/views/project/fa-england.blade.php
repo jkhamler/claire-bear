@@ -7,22 +7,33 @@
 
         <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
 
-            <div style="padding-top: 25px;"><h4 class="project-title">NT Biddulph Grange Garden</h4></div>
-            <div><p class="project-subtitle">Lorem ipsum dolor sit amet, no vix tantas suscipit delicata, mel quas
-                    congue ne. Ex usu evertitur temporibus, postea nusquam ut cum.</p></div>
+            <div style="padding-top: 25px;"><h4 class="project-title">The Football Association (FA) - Packaging Design</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
 
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/cat.jpg" class="scale-img" style="padding-top: 15px;"/>
-
+            <img src="/images/projects/fa/FA_1_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/cat.jpg" class="scale-img" style="padding-top: 15px; padding-bottom: 15px;"/>
-
+            <img src="/images/projects/fa/FA_2_1x.jpg" class="scale-img"
+                 style="padding-top: 15px; padding-bottom: 15px;"/>
         </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/fa/FA_3_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/fa/FA_4_1x.jpg" class="scale-img"
+                 style="padding-top: 15px; padding-bottom: 15px;"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/fa/FA_5_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
+        </div>
+        
 
 
         <div class="row">
@@ -61,35 +72,44 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>Project title</h3></div>
-                            <div id="text"><h5>Exhibition Design</h5></div>
+                            <div id="text"><h3>The Football Association (FA)</h3></div>
+                            <div id="text"><h5>Packaging Design</h5></div>
 
                             <div style="padding-top: 20px;">
-                                <div id="text">
-                                    In a professional context it often happens that private or corporate clients corder
-                                    a
-                                    publication to be
-                                    made and presented with the actual content still not being ready. Think of a news
-                                    blog that's
-                                    filled
-                                    with content hourly on the day of going live. However, reviewers tend to be
-                                    distracted by
-                                    comprehensible
-                                    content, say, a random text copied from a newspaper or the internet. The are likely
-                                    to focus on
-                                    the
-                                    text, disregarding the layout and its elements. Besides, random text risks to be
-                                    unintendedly
-                                    humorous
-                                    or offensive, an unacceptable risk in corporate environments. Lorem ipsum and its
-                                    many variants
-                                    have
-                                    been employed since the early 1960ies, and quite likely since the sixteenth century.
+                                <div id="text">The aim was to reposition the England football merchandising offer. Moving it up market by selling to new mass market retailers such as John Lewis and Sainsbury’s as well as a luxury offer for new collaborations e.g. Aspinals of London.
+                                </div>
+
+                                <br/>
+
+                                <div id="text">The heritage of English football was a strong theme and the new kit was inspired by the 1960s red tops. The concept was to bring out the heritage and to make the brand bold and sophisticated.
                                 </div>
                             </div>
 
+                            <br/>
+
+                            <div id="text">
+                                <h5>Deliverables</h5>
+                                <p>– Visual identity and assets</p>
+                                <p>– Packaging mock-ups</p>
+                                <p>– POS examples</p>
+                                <p>– Luxury packaging mock-ups</p>
+                                <p>– Patterns for tissue paper</p>
+                                <p>– Luxury materials specs</p>
+                            </div>
+
+                            <div id="text">
+                                <h5>Role</h5>
+                                <p>- Lead graphic designer</p>
+                            </div>
+
+                            <div id="text">
+                                <h5>Studio</h5>
+                                <p>- Easy Tiger Creative</p>
+                            </div>
 
                         </div>
+
+
                     </div>
 
 
