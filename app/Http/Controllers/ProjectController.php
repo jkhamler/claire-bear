@@ -27,8 +27,8 @@ class ProjectController extends Controller
             ['name' => 'National Trust Biddulph Grange Garden', 'description' => 'Exhibition Design', 'url' => '/project/nt-biddulph', 'thumbnail_path' => '/images/thumbnails/NT_Biddulph.jpg'],
             ['name' => 'National Trust Nostel Priory', 'description' => 'Exhibition Design', 'url' => '/project/nt-nostell', 'thumbnail_path' => '/images/thumbnails/NT_Nostell.jpg'],
             ['name' => 'Royal Museums Greenwich', 'description' => 'Exhibition Design', 'url' => '/project/rmg', 'thumbnail_path' => '/images/thumbnails/RMG.jpg'],
-            ['name' => 'Valentino Master of Couture, Somerset House', 'description' => 'Exhibition Design', 'url' => '/project/valentino', 'thumbnail_path' => '/images/thumbnails/valentino.jpg'],
-            ['name' => 'Ardley Viridor ERF Visitor Centre', 'description' => 'Exhibition Design', 'url' => '/project/viridor', 'thumbnail_path' => '/images/thumbnails/viridor.jpg'],
+            ['name' => 'Valentino Master of Couture, Somerset House', 'description' => 'Exhibition Design', 'url' => '/project/valentino', 'thumbnail_path' => '/images/thumbnails/Valentino.jpg'],
+            ['name' => 'Ardley Viridor ERF Visitor Centre', 'description' => 'Exhibition Design', 'url' => '/project/viridor', 'thumbnail_path' => '/images/thumbnails/Viridor.jpg'],
         ];
 
 
