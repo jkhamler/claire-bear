@@ -14,32 +14,27 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/valentino/Valentino_1_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
+            <img src="/images/projects/valentino/Valentino_1_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/valentino/Valentino_2_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/valentino/Valentino_2_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/valentino/Valentino_3_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/valentino/Valentino_3_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/valentino/Valentino_4_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/valentino/Valentino_4_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/valentino/Valentino_5_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/valentino/Valentino_5_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/valentino/Valentino_6_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/valentino/Valentino_6_1x.jpg" class="scale-img"/>
         </div>
 
 
@@ -51,7 +46,7 @@
         <div class="d-flex justify-content-between">
             <div></div>
             <div>
-                <a href="#"><i class="fas fa-chevron-circle-up"></i></a>
+                <a href="#"><i class="fas fa-chevron-circle-up fa-2x up-chevron"></i></a>
             </div>
         </div>
 

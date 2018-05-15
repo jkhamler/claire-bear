@@ -22,8 +22,8 @@
                                  src="{{ $project['thumbnail_path'] }}">
 
                             <div class="content-details fadeIn-bottom">
-                                <h4 class="content-title">{{ $project['name'] }}</h4>
-                                <h5 class="content-text">{{ $project['description'] }}</h5>
+                                <h5>{{ $project['name'] }}</h5>
+                                <h6>{{ $project['description'] }}</h6>
                             </div>
 
                         </a>

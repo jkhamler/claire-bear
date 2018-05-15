@@ -24,6 +24,9 @@ class HomeController extends Controller
             ['name' => '', 'thumbnail_path' => '/images/clients/logo-9.png'],
             ['name' => '', 'thumbnail_path' => '/images/clients/logo-10.png'],
             ['name' => '', 'thumbnail_path' => '/images/clients/logo-11.png'],
+            ['name' => '', 'thumbnail_path' => '/images/clients/logo-12.png'],
+            ['name' => '', 'thumbnail_path' => '/images/clients/logo-13.png'],
+            ['name' => '', 'thumbnail_path' => '/images/clients/logo-14.png'],
         ];
 
         return view('home.about', [

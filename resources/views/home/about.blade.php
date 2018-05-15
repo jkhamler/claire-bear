@@ -27,7 +27,7 @@
                         <div class="border-bottom" style="margin-bottom: 10px;">
 
                             <div class="panel-heading active" role="tab" id="headingOne">
-                                <h4 class="panel-title">About</h4>
+                                <h4 class="panel-title about-links">About</h4>
                             </div>
 
                             <div role="tabpanel"
@@ -61,7 +61,7 @@
                             <div class="panel-heading active" role="tab" id="headingTwo">
                                 <h4 class="panel-title">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
-                                       aria-expanded="true" aria-controls="collapseTwo">Skills</a>
+                                       aria-expanded="true" aria-controls="collapseTwo" class="about-links">Skills</a>
                                     <a style="float: right;">
                                         <i id="chevronTwo" class="indicator fas fa-chevron-down" data-toggle="collapse"
                                            data-parent="#accordion"
@@ -105,7 +105,7 @@
                                 <h4 class="panel-title">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion"
                                        href="#collapseThree"
-                                       aria-expanded="true" aria-controls="collapseThree">Clients</a>
+                                       aria-expanded="true" aria-controls="collapseThree" class="about-links">Clients</a>
                                     <a style="float: right;">
                                         <i id="chevronThree" class="indicator fas fa-chevron-down"
                                            data-toggle="collapse"
@@ -128,7 +128,7 @@
 
                                             @foreach($clients as $client)
                                                 <img src="{{ $client['thumbnail_path'] }}"
-                                                     style="width: 110px; margin: 3px; margin-top: 6px; background-color: white;"
+                                                     style="width: 150px; margin: 3px; margin-top: 6px; background-color: white;"
                                                      alt="{{ $client['name'] }}">
                                             @endforeach
 
@@ -152,7 +152,7 @@
                                 <h4 class="panel-title">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion"
                                        href="#collapseFour"
-                                       aria-expanded="true" aria-controls="collapseFour">Contact</a>
+                                       aria-expanded="true" aria-controls="collapseFour" class="about-links">Contact</a>
                                     <a style="float: right;">
                                         <i id="chevronFour" class="indicator fas fa-chevron-down"
                                            data-toggle="collapse"

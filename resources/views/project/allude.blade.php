@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
+        <div class="col-12">
 
             <div style="padding-top: 25px;"><h4 class="project-title">Allude Cashmere – Retail Campaign</h4></div>
 
@@ -14,7 +14,7 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/allude/Allude_1_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
+            <img src="/images/projects/allude/Allude_1_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
@@ -23,7 +23,7 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/allude/Allude_3_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
+            <img src="/images/projects/allude/Allude_3_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
@@ -40,7 +40,7 @@
         <div class="d-flex justify-content-between">
             <div></div>
             <div>
-                <a href="#"><i class="fas fa-chevron-circle-up"></i></a>
+                <a href="#"><i class="fas fa-chevron-circle-up fa-2x up-chevron"></i></a>
             </div>
         </div>
 

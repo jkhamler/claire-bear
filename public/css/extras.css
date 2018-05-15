@@ -2,11 +2,6 @@ body {
     font-family: Roboto;
 }
 
-.main-text {
-    font-family: Impact;
-    color: #333333;
-}
-
 .panel-body{
     font-family: Roboto;
 }
@@ -20,6 +15,11 @@ body {
 
 }
 
+.about-links{
+    color: #333333;
+    font-family: Roboto;
+}
+
 .navbar-white {
     background-color: white;
 }
@@ -28,8 +28,12 @@ body {
     background-color: #cccccc;
 }
 
+.project-background {
+    background-color: #46a0bf;
+}
+
 .body-container {
-    min-height: 75rem;
+   display: inline-block;
 }
 
 .burger {
@@ -158,6 +162,7 @@ body {
     font-family: Roboto;
     color: #333333;
     letter-spacing: 0.02em;
+    text-decoration: underline;
 }
 
 .read-more:hover {
@@ -234,6 +239,14 @@ body {
 
 .content-image {
     width: 100%;
+}
+
+.content-title{
+    color: deeppink;
+}
+
+.up-chevron {
+    color: #46a0bf;
 }
 
 .content-details {

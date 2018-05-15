@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
+        <div class="col-12">
 
             <div style="padding-top: 25px;"><h4 class="project-title">National Trust, Nostell Priory – Visual Identity</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
@@ -13,35 +13,31 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_nostell/Nostell_1_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
+            <img src="/images/projects/nt_nostell/Nostell_1_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_nostell/Nostell_2_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/nt_nostell/Nostell_2_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_nostell/Nostell_3_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
+            <img src="/images/projects/nt_nostell/Nostell_3_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_nostell/Nostell_4_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/nt_nostell/Nostell_4_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_nostell/Nostell_5_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
+            <img src="/images/projects/nt_nostell/Nostell_5_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_nostell/Nostell_6_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/nt_nostell/Nostell_6_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_nostell/Nostell_7_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/nt_nostell/Nostell_7_1x.jpg" class="scale-img"/>
         </div>
 
 
@@ -53,7 +49,7 @@
         <div class="d-flex justify-content-between">
             <div></div>
             <div>
-                <a href="#"><i class="fas fa-chevron-circle-up"></i></a>
+                <a href="#"><i class="fas fa-chevron-circle-up fa-2x up-chevron"></i></a>
             </div>
         </div>
 
