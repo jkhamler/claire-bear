@@ -7,7 +7,8 @@
 
         <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
 
-            <div style="padding-top: 25px;"><h4 class="project-title">Royal Museums Greenwich - Visual Identity</h4></div>
+            <div style="padding-top: 25px;"><h4 class="project-title">Valentino Master of Couture, Somerset House - Exhibition design
+                </h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
 
         </div>
@@ -78,14 +79,11 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>Royal Museums Greenwich</h3></div>
-                            <div id="text"><h5>Visual Identity</h5></div>
+                            <div id="text"><h3>Valentino Master of Couture, Somerset House </h3></div>
+                            <div id="text"><h5>Exhibition Design</h5></div>
 
                             <div style="padding-top: 20px;">
-                                <div id="text">The aim was to create a visual identity for the
-                                    RMG formal learning offer. This had to sit within and without the parent brand and be implemented across multiple platforms.
-                                    The overall concept was developed from the museum's vast collection of beautiful maps.
-                                    Sailing through the curriculum was coined and the assets were taken and inspired by these.
+                                <div id="text">I worked on creating a bespoke typeface and exhibition graphics. The bespoke typeface took inspiration from Valentino’s ornamental details. The exhibition graphics took inspiration from vintage couture catwalk shows, whilst the captions where pinned onto fabric with dressmaking pins.
                                 </div>
                             </div>
 
@@ -93,22 +91,23 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>– Visual identity and assets</p>
-                                <p>– Marketing material</p>
-                                <p>– School packs</p>
-                                <p>– Powerpoint presentations</p>
-                                <p>– Web applications</p>
-                                <p>– Brand guidelines</p>
+                                <p>– Pitches</p>
+                                <p>– Concept design</p>
+                                <p>– Design development</p>
+                                <p>– Bespoke typography</p>
+                                <p>– Exhibition displays</p>
+                                <p>– Marketing materials</p>
+
                             </div>
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- Lead graphic designer</p>
+                                <p>- Graphic designer working on concept and design development</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- Easy Tiger Creative</p>
+                                <p>- Studio Frith</p>
                             </div>
 
                         </div>

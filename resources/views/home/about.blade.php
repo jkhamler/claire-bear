@@ -27,19 +27,10 @@
                         <div class="border-bottom" style="margin-bottom: 10px;">
 
                             <div class="panel-heading active" role="tab" id="headingOne">
-                                <h4 class="panel-title">
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
-                                       aria-expanded="true" aria-controls="collapseOne">About</a>
-                                    <a style="float: right;">
-                                        <i id="chevronOne" class="indicator fas fa-chevron-down" data-toggle="collapse"
-                                           data-parent="#accordion"
-                                           href="#collapseOne">
-                                        </i>
-                                    </a>
-                                </h4>
+                                <h4 class="panel-title">About</h4>
                             </div>
 
-                            <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel"
+                            <div role="tabpanel"
                                  aria-labelledby="headingOne">
                                 <div class="row">
 

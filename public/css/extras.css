@@ -1,5 +1,10 @@
 body {
-    font-family: Roboto, Impact;
+    font-family: Roboto;
+}
+
+.main-text {
+    font-family: Impact;
+    color: #333333;
 }
 
 .panel-body{
