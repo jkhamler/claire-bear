@@ -24,12 +24,12 @@
 
                     <div class="panel panel-default">
 
-                        <div class="border-bottom" style="margin-bottom: 10px;">
+                        <div class="about-section-border" style="margin-bottom: 10px;">
 
                                 <div class="row">
 
                                     <div class="col-xs-1 col-sm-3 col-md-4 col-lg-5">
-                                        <h5 class="panel-title about-links">About</h5>
+                                        <h5 class="panel-title">About</h5>
 
 
                                     </div>
@@ -55,7 +55,7 @@
 
                         </div>
 
-                        <div class="border-bottom" style="margin-bottom: 10px;">
+                        <div class="about-section-border" style="margin-bottom: 10px;">
 
 
                             <div class="panel-heading active" role="tab" id="headingTwo">
@@ -99,7 +99,7 @@
 
                         </div>
 
-                        <div class="border-bottom" style="margin-bottom: 10px;">
+                        <div class="about-section-border" style="margin-bottom: 10px;">
 
                             <div class="panel-heading active" role="tab" id="headingThree">
                                 <h5 class="panel-title">
@@ -145,7 +145,7 @@
 
                         </div>
 
-                        <div class="border-bottom" style="margin-bottom: 10px;">
+                        <div class="about-section-border" style="margin-bottom: 10px;">
 
 
                             <div class="panel-heading active" role="tab" id="headingFour">

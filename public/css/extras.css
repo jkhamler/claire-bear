@@ -18,14 +18,23 @@ body {
 .about-links{
     color: #333333;
     font-family: Roboto;
+    letter-spacing: 0.02em;
+
 }
+
+.about-links:hover {
+    font-family: Roboto;
+    color: #848484;
+    letter-spacing: 0.02em;
+}
+
 
 .navbar-white {
     background-color: white;
 }
 
 .main-background {
-    background-color: #cccccc;
+    background-color: #dedede;
 }
 
 .project-background {
@@ -288,17 +297,24 @@ body {
     letter-spacing: 0.1em;
 }
 
+.about-section-border{
+    border-bottom: 1px solid;
+    border-color: #333333;
+}
+
 #overlay {
-    position: absolute;
+    opacity: 0.95;
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
     top: 0;
-    bottom: 0;
     left: 0;
     right: 0;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: .5s ease;
-    background-color: #008CBA;
+    bottom: 0;
+    background-color: #cccccc; /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
 }
 
 #text {

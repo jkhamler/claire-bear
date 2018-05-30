@@ -14,29 +14,6 @@ function off() {
     document.getElementById("overlay").style.display = "none";
 }
 
-//
-// var accordion = document.querySelector('.accordion');
-// var items = accordion.querySelectorAll('li');
-// var questions = accordion.querySelectorAll('.question');
-//
-// //Functions
-//
-// function toggleAccordion() {
-//     var thisItem = this.parentNode;
-//     items.forEach(item => {
-//         if (thisItem == item) {
-//             thisItem.classList.toggle('open');
-//             return;
-//         }
-//         item.classList.remove('open');
-//     });
-// }
-//
-// //Event Listeners
-//
-// questions.forEach(question => question.addEventListener('click', toggleAccordion));
-
-
 // Accordion Toggle
 
 $("#headingOne").click(function () {
