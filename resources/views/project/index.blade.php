@@ -21,7 +21,7 @@
                             <img class="content-image img-fluid"
                                  src="{{ $project['thumbnail_path'] }}">
 
-                            <div class="content-details fadeIn-bottom">
+                            <div class="content-details">
                                 <h5>{{ $project['name'] }}</h5>
                                 <h5 style="font-size: smaller">{{ $project['description'] }}</h5>
                             </div>
