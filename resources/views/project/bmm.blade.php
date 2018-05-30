@@ -17,8 +17,7 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/bmm/BMM_2_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/bmm/BMM_2_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
@@ -26,8 +25,7 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/bmm/BMM_4_1x.jpg" class="scale-img"
-                 style="padding-top: 15px; padding-bottom: 15px;"/>
+            <img src="/images/projects/bmm/BMM_4_1x.jpg" class="scale-img"/>
         </div>
 
 

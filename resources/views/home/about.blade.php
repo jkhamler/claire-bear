@@ -26,15 +26,13 @@
 
                         <div class="border-bottom" style="margin-bottom: 10px;">
 
-                            <div class="panel-heading active" role="tab" id="headingOne">
-                                <h4 class="panel-title about-links">About</h4>
-                            </div>
-
-                            <div role="tabpanel"
-                                 aria-labelledby="headingOne">
                                 <div class="row">
 
-                                    <div class="col-xs-1 col-sm-3 col-md-4 col-lg-5"></div>
+                                    <div class="col-xs-1 col-sm-3 col-md-4 col-lg-5">
+                                        <h5 class="panel-title about-links">About</h5>
+
+
+                                    </div>
                                     <div class="panel-body col-xs-11 col-sm-8 col-md-7 col-lg-5">
 
                                         <p>I'm a multi-disciplinary graphic designer who thrives on concepts and
@@ -53,13 +51,15 @@
                                     </div>
                                 </div>
                             </div>
+
+
                         </div>
 
                         <div class="border-bottom" style="margin-bottom: 10px;">
 
 
                             <div class="panel-heading active" role="tab" id="headingTwo">
-                                <h4 class="panel-title">
+                                <h5 class="panel-title">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
                                        aria-expanded="true" aria-controls="collapseTwo" class="about-links">Skills</a>
                                     <a style="float: right;">
@@ -68,7 +68,7 @@
                                            href="#collapseTwo">
                                         </i>
                                     </a>
-                                </h4>
+                                </h5>
                             </div>
 
 
@@ -102,7 +102,7 @@
                         <div class="border-bottom" style="margin-bottom: 10px;">
 
                             <div class="panel-heading active" role="tab" id="headingThree">
-                                <h4 class="panel-title">
+                                <h5 class="panel-title">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion"
                                        href="#collapseThree"
                                        aria-expanded="true" aria-controls="collapseThree" class="about-links">Clients</a>
@@ -113,7 +113,7 @@
                                            href="#collapseThree">
                                         </i>
                                     </a>
-                                </h4>
+                                </h5>
                             </div>
 
 
@@ -149,7 +149,7 @@
 
 
                             <div class="panel-heading active" role="tab" id="headingFour">
-                                <h4 class="panel-title">
+                                <h5 class="panel-title">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion"
                                        href="#collapseFour"
                                        aria-expanded="true" aria-controls="collapseFour" class="about-links">Contact</a>
@@ -160,7 +160,7 @@
                                            href="#collapseFour">
                                         </i>
                                     </a>
-                                </h4>
+                                </h5>
                             </div>
 
 

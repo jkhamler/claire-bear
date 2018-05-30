@@ -14,6 +14,8 @@
           type="image/png"
           href="/images/ch-icon.png">
 
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+
     <meta name="description"
           content="Claire is a London based Creative Graphic Designer with the experience of working on a wide range of projects. She has a BA (Hons) from Camberwell Collage of Arts, an MA from Central Saint Martins and has been awarded an MISTD in typography.">
 

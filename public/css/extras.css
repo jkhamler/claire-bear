@@ -143,7 +143,10 @@ body {
     width: auto;
     max-width: 100%;
     width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
+
 
 .project-title {
     font-family: Roboto;
