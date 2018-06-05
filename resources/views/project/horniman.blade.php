@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12">
+        <div class="col-12 p-0" style="width: 100%;">
 
             <div style="padding-top: 25px;"><h4 class="project-title">Horniman Museum, The Music Room – Infographics</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
@@ -51,7 +51,8 @@
 
 
 
-    <div id="overlay" onclick="off()">
+    <div id="overlay" onclick="off()" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="off()">&times;</a>
 
         <div class="container-fluid">
             <div class="row" style="padding-top: 100px;">
@@ -68,8 +69,8 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>Horniman Museum, The Music Room</h3></div>
-                            <div id="text"><h5>Infographics</h5></div>
+                            <div id="text"><p class="overlay-heading">Horniman Museum, The Music Room</p></div>
+                            <div id="text"><p class="overlay-subheading">Infographics</p></div>
 
                             <div style="padding-top: 20px;">
                                 <div id="text">The music room at the Horniman Museum is one of my favourite galleries. I gathered information on all of the instruments on show at the gallery and arranged them into a  typographic Infographic. This was developed into museum interpretation, leaflets, and an app.

@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12">
+        <div class="col-12 p-0" style="width: 100%;">
 
             <div style="padding-top: 25px;"><h4 class="project-title">The Football Association (FA) - Packaging Design</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
@@ -53,7 +53,8 @@
 
 
 
-    <div id="overlay" onclick="off()">
+    <div id="overlay" onclick="off()" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="off()">&times;</a>
 
         <div class="container-fluid">
             <div class="row" style="padding-top: 100px;">
@@ -70,8 +71,10 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>The Football Association (FA)</h3></div>
-                            <div id="text"><h5>Packaging Design</h5></div>
+
+                            <div id="text"><p class="overlay-heading">The Football Association (FA)</p></div>
+                            <div id="text"><p class="overlay-subheading">Packaging Design</p></div>
+
 
                             <div style="padding-top: 20px;">
                                 <div id="text">The aim was to reposition the England football merchandising offer. Moving it up market by selling to new mass market retailers such as John Lewis and Sainsbury’s as well as a luxury offer for new collaborations e.g. Aspinals of London.

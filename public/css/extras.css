@@ -4,10 +4,12 @@ body {
 
 .panel-body{
     font-family: Roboto;
+    font-size: 13pt;
 }
 
 .panel-title{
     font-family: Roboto;
+    font-size: 16pt;
 }
 
 .header-hamburger {
@@ -42,7 +44,8 @@ body {
 }
 
 .body-container {
-   display: inline-block;
+   display: inline-block;min-height: 100%;
+    padding-bottom: 80px;
 }
 
 .burger {
@@ -123,6 +126,10 @@ body {
 
 .footer-style {
     background-color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    clear:both;
 }
 
 .footer-center {
@@ -152,14 +159,14 @@ body {
     width: auto;
     max-width: 100%;
     width: 100%;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
 
 
 .project-title {
     font-family: Roboto;
-    font-size: 18px;
+    font-size: 16pt;
     letter-spacing: 0.02em;
     color: #333333;
 }
@@ -172,6 +179,7 @@ body {
 
 .read-more {
     font-family: Roboto;
+    font-size: 16pt;
     color: #333333;
     letter-spacing: 0.02em;
     text-decoration: underline;
@@ -302,8 +310,16 @@ body {
     border-color: #333333;
 }
 
+.overlay-heading{
+    font-size: 20pt;
+}
+
+.overlay-subheading{
+    font-size: 16pt;
+}
+
 #overlay {
-    opacity: 0.95;
+    /*opacity: 0.95;*/
     position: fixed; /* Sit on top of the page content */
     display: none; /* Hidden by default */
     width: 100%; /* Full width (cover the whole page) */
@@ -312,12 +328,13 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #cccccc; /* Black background with opacity */
+    background-color: #46a0bf; /* Black background with opacity */
     z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
     cursor: pointer; /* Add a pointer on hover */
 }
 
 #text {
-    color: #333333;
+    color: white;
+    font-size: 13pt;
     letter-spacing: 0.02em;
 }

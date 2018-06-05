@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12">
+        <div class="col-12 p-0" style="width: 100%;">
 
             <div style="padding-top: 25px;"><h4 class="project-title">The History of Magic, The British Library</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
@@ -47,7 +47,8 @@
 
 
 
-    <div id="overlay" onclick="off()">
+    <div id="overlay" onclick="off()" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="off()">&times;</a>
 
         <div class="container-fluid">
             <div class="row" style="padding-top: 100px;">
@@ -64,8 +65,9 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>The History of Magic, The British Library</h3></div>
-                            <div id="text"><h5>Exhibition Design</h5></div>
+                            <div id="text"><p class="overlay-heading">The History of Magic, The British Library</p></div>
+                            <div id="text"><p class="overlay-subheading">Exhibition Design</p></div>
+
 
                             <div style="padding-top: 20px;">
                                 <div id="text">The overall design scheme for the exhibition was the British Library transforming into Hogwarts Library. The graphics were inspired by antique books and library catalogue cards. I worked on the overall look and feel of the spaces this included graphics, colour schemes, materials and props.

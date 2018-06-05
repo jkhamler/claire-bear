@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12">
+        <div class="col-12 p-0" style="width: 100%;">
 
             <div style="padding-top: 25px;"><h4 class="project-title">The Metamorphosis, Franz Kafka - Book Design</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
@@ -47,7 +47,8 @@
 
 
 
-    <div id="overlay" onclick="off()">
+    <div id="overlay" onclick="off()" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="off()">&times;</a>
 
         <div class="container-fluid">
             <div class="row" style="padding-top: 100px;">
@@ -64,8 +65,8 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>The Metamorphosis, Franz Kafka</h3></div>
-                            <div id="text"><h5>Book Design</h5></div>
+                            <div id="text"><p class="overlay-heading">The Metamorphosis, Franz Kafka</p></div>
+                            <div id="text"><p class="overlay-subheading">Book Design</p></div>
 
                             <div style="padding-top: 20px;">
                                 <div id="text">A redesign of one of my favourite pieces of literature The Metamorphosis by Franz Kafka. I wanted to create a playful reading experience using typography. The text is curved to portray Gregor Samsa who is transformed into a beetle. As the book is read the gutter space between the pages move apart representing the distance between Gregor and his family when he is turned into a beetle.

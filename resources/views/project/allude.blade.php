@@ -5,9 +5,9 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12">
+        <div class="col-12 p-0" style="width: 100%;">
 
-            <div style="padding-top: 25px;"><h4 class="project-title">Allude Cashmere – Retail Campaign</h4></div>
+            <div style="padding-top: 25px;"><h4 class="project-title">Allude Cashmere – Retail Campaign</h4>
 
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
 
@@ -49,7 +49,8 @@
 
 
 
-    <div id="overlay" onclick="off()">
+    <div id="overlay" onclick="off()" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="off()">&times;</a>
 
         <div class="container-fluid">
             <div class="row" style="padding-top: 100px;">
@@ -66,8 +67,8 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>Allude Cashmere</h3></div>
-                            <div id="text"><h5>Retail Campaign</h5></div>
+                            <div id="text"><p class="overlay-heading">Allude Cashmere</p></div>
+                            <div id="text"><p class="overlay-subheading">Retail Campaign</p></div>
 
                             <div style="padding-top: 20px;">
                                 <div id="text">Allude Cashmere released a range of different colours for their most popular jumper.  The project highlighted 1 Pullover with 50 colours. The concept was simple and bold – using a grid of 50 colours. This grid could be used across multiple applications and medium.

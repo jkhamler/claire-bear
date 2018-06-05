@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12" style="padding-top: 15px;">
+        <div class="col-12 p-0" style="width: 100%;">
 
             <div style="padding-top: 25px;"><h4 class="project-title">Ardley Viridor ERF Visitor Centre</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
@@ -65,8 +65,8 @@
     </div>
 
 
-
-    <div id="overlay" onclick="off()">
+    <div id="overlay" onclick="off()" class="overlay">
+            <a href="javascript:void(0)" class="closebtn" onclick="off()">&times;</a>
 
         <div class="container-fluid">
             <div class="row" style="padding-top: 100px;">
@@ -83,8 +83,8 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>Ardley Viridor ERF Visitor Centre</h3></div>
-                            <div id="text"><h5>Visual Identity</h5></div>
+                            <div id="text"><p class="overlay-heading">Ardley Viridor ERF Visitor Centre</p></div>
+                            <div id="text"><p class="overlay-subheading">Visual Identity</p></div>
 
                             <div style="padding-top: 20px;">
                                 <div id="text">The main purpose of the visitor centre was to inform school children and members of the public about the plant. Therefore the concept was based on the working plant. The graphics were inspired by signage and patterns that could be seen around the plant.

@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12" style="padding: 0px;" style="padding-top: 15px;">
+        <div class="col-12 p-0" style="width: 100%;">
 
             <div style="padding-top: 25px;"><h4 class="project-title">Valentino Master of Couture, Somerset House - Exhibition design
                 </h4></div>
@@ -57,7 +57,8 @@
 
 
 
-    <div id="overlay" onclick="off()">
+    <div id="overlay" onclick="off()" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="off()">&times;</a>
 
         <div class="container-fluid">
             <div class="row" style="padding-top: 100px;">
@@ -74,8 +75,8 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>Valentino Master of Couture, Somerset House </h3></div>
-                            <div id="text"><h5>Exhibition Design</h5></div>
+                            <div id="text"><p class="overlay-heading">Valentino Master of Couture, Somerset House</p></div>
+                            <div id="text"><p class="overlay-subheading">Exhibition Design</p></div>
 
                             <div style="padding-top: 20px;">
                                 <div id="text">I worked on creating a bespoke typeface and exhibition graphics. The bespoke typeface took inspiration from Valentino’s ornamental details. The exhibition graphics took inspiration from vintage couture catwalk shows, whilst the captions where pinned onto fabric with dressmaking pins.

@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12">
+        <div class="col-12 p-0" style="width: 100%;">
 
             <div style="padding-top: 25px;"><h4 class="project-title">National Trust, Nostell Priory – Visual Identity</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
@@ -60,7 +60,8 @@
 
 
 
-    <div id="overlay" onclick="off()">
+    <div id="overlay" onclick="off()" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="off()">&times;</a>
 
         <div class="container-fluid">
             <div class="row" style="padding-top: 100px;">
@@ -77,8 +78,8 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>National Trust, Nostell Priory</h3></div>
-                            <div id="text"><h5>Visual Identity</h5></div>
+                            <div id="text"><p class="overlay-heading">National Trust, Nostell Priory</p></div>
+                            <div id="text"><p class="overlay-subheading">Visual Identity</p></div>
 
                             <div style="padding-top: 20px;">
                                 <div id="text">The house and gardens are a grand design,

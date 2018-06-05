@@ -5,7 +5,7 @@
 @section('content')
     <div class="container-fluid">
 
-        <div class="col-12">
+        <div class="col-12 p-0" style="width: 100%;">
 
             <div style="padding-top: 25px;"><h4 class="project-title">The British Motor Museum - Exhibition Design</h4></div>
             <div><p style="width: auto;"><a href="#" onclick="on()" class="read-more">Read more</a></p></div>
@@ -28,6 +28,18 @@
             <img src="/images/projects/bmm/BMM_4_1x.jpg" class="scale-img"/>
         </div>
 
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/bmm/BMM_5_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/bmm/BMM_6_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/bmm/BMM_7_1x.jpg" class="scale-img"/>
+        </div>
+
 
         <div class="row">
 
@@ -48,7 +60,8 @@
 
 
 
-    <div id="overlay" onclick="off()">
+    <div id="overlay" onclick="off()" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="off()">&times;</a>
 
         <div class="container-fluid">
             <div class="row" style="padding-top: 100px;">
@@ -65,8 +78,8 @@
 
                         <div class="col">
 
-                            <div id="text"><h3>The British Motor Museum</h3></div>
-                            <div id="text"><h5>Exhibition Design</h5></div>
+                            <div id="text"><p class="overlay-heading">The British Motor Museum</p></div>
+                            <div id="text"><p class="overlay-subheading">Exhibition Design</p></div>
 
                             <div style="padding-top: 20px;">
                                 <div id="text">The £1.1 million refurbishment was inspired by road graphics and vintage car adverts. These were developed to create a contemporary and bold setting of the reorganised space.
