@@ -100,12 +100,12 @@
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- Lead graphic designer</p>
+                                <p>Lead graphic designer</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- Easy Tiger Creative</p>
+                                <p>Easy Tiger Creative</p>
                             </div>
 
                         </div>

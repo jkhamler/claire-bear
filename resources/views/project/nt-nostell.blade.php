@@ -24,13 +24,6 @@
             <img src="/images/projects/nt_nostell/Nostell_3_1x.jpg" class="scale-img"/>
         </div>
 
-        <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_nostell/Nostell_4_1x.jpg" class="scale-img"/>
-        </div>
-
-        <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_nostell/Nostell_5_1x.jpg" class="scale-img"/>
-        </div>
 
         <div class="col-12" style="padding: 0px;">
             <img src="/images/projects/nt_nostell/Nostell_6_1x.jpg" class="scale-img"/>
@@ -38,6 +31,14 @@
 
         <div class="col-12" style="padding: 0px;">
             <img src="/images/projects/nt_nostell/Nostell_7_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_nostell/Nostell_4_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_nostell/Nostell_5_1x.jpg" class="scale-img"/>
         </div>
 
 
@@ -100,12 +101,12 @@
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- Lead graphic designer</p>
+                                <p>Lead graphic designer</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- Easy Tiger Creative</p>
+                                <p>Easy Tiger Creative</p>
                             </div>
 
                         </div>

@@ -90,22 +90,22 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>- Visual identity and assets</p>
-                                <p>- Interpretation design</p>
-                                <p>- Museum layout</p>
-                                <p>- Colours in the exhibition space</p>
-                                <p>- Wayfinding</p>
-                                <p>- Digital interpretation</p>
+                                <p>Visual identity and assets</p>
+                                <p>Interpretation design</p>
+                                <p>Museum layout</p>
+                                <p>Colours in the exhibition space</p>
+                                <p>Wayfinding</p>
+                                <p>Digital interpretation</p>
                             </div>
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- One of two lead graphic designers working on every design stage.</p>
+                                <p>One of two lead graphic designers working on every design stage.</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- Easy Tiger Creative</p>
+                                <p>Easy Tiger Creative</p>
                             </div>
 
                         </div>

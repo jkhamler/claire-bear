@@ -79,19 +79,19 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                    <p>- Visual identity and assets</p>
-                                    <p>- Marketing materials</p>
-                                    <p>- Window scheme</p>
+                                    <p>Visual identity and assets</p>
+                                    <p>Marketing materials</p>
+                                    <p>Window scheme</p>
                             </div>
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- Graphic designer</p>
+                                <p>Graphic designer</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- Bibliothèque</p>
+                                <p>Bibliothèque</p>
                             </div>
 
                         </div>

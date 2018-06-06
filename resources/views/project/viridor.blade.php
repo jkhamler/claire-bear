@@ -13,6 +13,22 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/viridor/Viridor_6_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/viridor/Viridor_7_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/viridor/Viridor_8_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/viridor/Viridor_9_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
             <img src="/images/projects/viridor/Viridor_1_1x.jpg" class="scale-img" style="padding-top: 15px;"/>
         </div>
 
@@ -31,21 +47,6 @@
             <img src="/images/projects/viridor/Viridor_5_1x.jpg" class="scale-img"/>
         </div>
 
-        <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/viridor/Viridor_6_1x.jpg" class="scale-img"/>
-        </div>
-
-        <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/viridor/Viridor_7_1x.jpg" class="scale-img"/>
-        </div>
-
-        <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/viridor/Viridor_8_1x.jpg" class="scale-img"/>
-        </div>
-
-        <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/viridor/Viridor_9_1x.jpg" class="scale-img"/>
-        </div>
 
         <div class="row">
 
@@ -103,12 +104,12 @@
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- One of two lead graphic designers working on every design stage.</p>
+                                <p>One of two lead graphic designers working on every design stage.</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- Easy Tiger Creative</p>
+                                <p>Easy Tiger Creative</p>
                             </div>
 
                         </div>

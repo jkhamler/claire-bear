@@ -76,12 +76,12 @@
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- Lead graphic designer</p>
+                                <p>Lead graphic designer</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- N/A self-directed</p>
+                                <p>N/A self-directed</p>
                             </div>
 
                         </div>

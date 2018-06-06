@@ -14,6 +14,10 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/valentino/Valentino_6_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
             <img src="/images/projects/valentino/Valentino_1_1x.jpg" class="scale-img"/>
         </div>
 
@@ -31,10 +35,6 @@
 
         <div class="col-12" style="padding: 0px;">
             <img src="/images/projects/valentino/Valentino_5_1x.jpg" class="scale-img"/>
-        </div>
-
-        <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/valentino/Valentino_6_1x.jpg" class="scale-img"/>
         </div>
 
 
@@ -98,12 +98,12 @@
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- Graphic designer working on concept and design development</p>
+                                <p>Graphic designer working on concept and design development</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- Studio Frith</p>
+                                <p>Studio Frith</p>
                             </div>
 
                         </div>

@@ -29,11 +29,15 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_11_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
             <img src="/images/projects/nt_biddulph/Biddulph_5_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_biddulph/Biddulph_6_1x.jpg" class="scale-img"/>
+            <img src="/images/projects/nt_biddulph/Biddulph_12_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
@@ -49,15 +53,11 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_6_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
             <img src="/images/projects/nt_biddulph/Biddulph_10_1x.jpg" class="scale-img"/>
-        </div>
-
-        <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_biddulph/Biddulph_11_1x.jpg" class="scale-img"/>
-        </div>
-
-        <div class="col-12" style="padding: 0px;">
-            <img src="/images/projects/nt_biddulph/Biddulph_12_1x.jpg" class="scale-img"/>
         </div>
 
 
@@ -119,12 +119,12 @@
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- Lead graphic designer</p>
+                                <p>Lead graphic designer</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- Easy Tiger Creative</p>
+                                <p>Easy Tiger Creative</p>
                             </div>
 
                         </div>

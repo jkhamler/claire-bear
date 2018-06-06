@@ -86,13 +86,13 @@
 
                             <div id="text">
                                 <h5>Role</h5>
-                                <p>- Lead graphic designer on concept and
+                                <p>Lead graphic designer on concept and
                                     design development</p>
                             </div>
 
                             <div id="text">
                                 <h5>Studio</h5>
-                                <p>- Easy Tiger Creative</p>
+                                <p>Easy Tiger Creative</p>
                             </div>
 
                         </div>
