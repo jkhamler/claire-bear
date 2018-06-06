@@ -13,11 +13,51 @@
         </div>
 
         <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_1_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
             <img src="/images/projects/nt_biddulph/Biddulph_2_1x.jpg" class="scale-img"/>
         </div>
 
         <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_3_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_4_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
             <img src="/images/projects/nt_biddulph/Biddulph_5_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_6_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_7_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_8_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_9_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_10_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_11_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/nt_biddulph/Biddulph_12_1x.jpg" class="scale-img"/>
         </div>
 
 
