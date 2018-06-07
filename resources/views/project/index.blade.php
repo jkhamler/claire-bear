@@ -14,7 +14,7 @@
 
                     <div class="content">
 
-                        <a href="{{ $project['url'] }}" target="_blank">
+                        <a href="{{ $project['url'] }}" target="_self">
 
                             <div class="content-overlay" style="padding: 100px;"></div>
 

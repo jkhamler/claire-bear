@@ -3,6 +3,8 @@
 <head>
     <title>Claire Horne | Creative Graphic Designer</title>
 
+    <base target="_self">
+
     <link href="https://fonts.googleapis.com/css?family=Roboto:light,regular" rel="stylesheet">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
