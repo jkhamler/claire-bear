@@ -77,8 +77,8 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>– Book design</p>
-                                <p>– Book binding</p>
+                                <p>Book design</p>
+                                <p>Book binding</p>
                             </div>
 
                             <div id="text">

@@ -90,12 +90,12 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>– Visual identity and assets</p>
-                                <p>– Packaging mock-ups</p>
-                                <p>– POS examples</p>
-                                <p>– Luxury packaging mock-ups</p>
-                                <p>– Patterns for tissue paper</p>
-                                <p>– Luxury materials specs</p>
+                                <p>Visual identity and assets</p>
+                                <p>Packaging mock-ups</p>
+                                <p>POS examples</p>
+                                <p>Luxury packaging mock-ups</p>
+                                <p>Patterns for tissue paper</p>
+                                <p>Luxury materials specs</p>
                             </div>
 
                             <div id="text">

@@ -28,6 +28,30 @@
             <img src="/images/projects/hp/HP_4_1x.jpg" class="scale-img"/>
         </div>
 
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/hp/HP_5_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/hp/HP_6_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/hp/HP_7_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/hp/HP_8_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/hp/HP_9_1x.jpg" class="scale-img"/>
+        </div>
+
+        <div class="col-12" style="padding: 0px;">
+            <img src="/images/projects/hp/HP_10_1x.jpg" class="scale-img"/>
+        </div>
+
         <div class="row">
 
 
@@ -78,10 +102,10 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>– Visual identity and assets</p>
-                                <p>– Design scheme for each section</p>
-                                <p>– Room colours and materials</p>
-                                <p>– Props</p>
+                                <p>Visual identity and assets</p>
+                                <p>Design scheme for each section</p>
+                                <p>Room colours and materials</p>
+                                <p>Props</p>
                             </div>
 
                             <div id="text">

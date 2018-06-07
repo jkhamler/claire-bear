@@ -70,8 +70,8 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>– Book cover design</p>
-                                <p>– Photography</p>
+                                <p>Book cover design</p>
+                                <p>Photography</p>
                             </div>
 
                             <div id="text">

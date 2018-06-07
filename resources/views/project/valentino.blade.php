@@ -87,12 +87,12 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>– Pitches</p>
-                                <p>– Concept design</p>
-                                <p>– Design development</p>
-                                <p>– Bespoke typography</p>
-                                <p>– Exhibition displays</p>
-                                <p>– Marketing materials</p>
+                                <p>Pitches</p>
+                                <p>Concept design</p>
+                                <p>Design development</p>
+                                <p>Bespoke typography</p>
+                                <p>Exhibition displays</p>
+                                <p>Marketing materials</p>
 
                             </div>
 

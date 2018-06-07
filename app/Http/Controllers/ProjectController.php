@@ -23,6 +23,7 @@ class ProjectController extends Controller
             ['name' => 'Girl in a Blue Dress', 'description' => 'Retail Campaign', 'url' => '/project/girl-in-a-blue-dress', 'thumbnail_path' => '/images/thumbnails/Girl_Blue_Dress.jpg'],
             ['name' => 'History of Magic', 'description' => 'Exhibition Design', 'url' => '/project/history-of-magic', 'thumbnail_path' => '/images/thumbnails/history_magic.jpg'],
             ['name' => 'Horniman Museum', 'description' => 'Exhibition Design', 'url' => '/project/horniman', 'thumbnail_path' => '/images/thumbnails/Horniman.jpg'],
+            ['name' => 'Designology, London Transport Museum', 'description' => 'Exhibition Design', 'url' => '/project/london-transport-museum', 'thumbnail_path' => '/images/thumbnails/Designology.jpg'],
             ['name' => 'The Metamorphosis, Franz Kafka', 'description' => 'Book Design', 'url' => '/project/metamorphosis', 'thumbnail_path' => '/images/thumbnails/Metamorphosis.jpg'],
             ['name' => 'National Trust Biddulph Grange Garden', 'description' => 'Exhibition Design', 'url' => '/project/nt-biddulph', 'thumbnail_path' => '/images/thumbnails/NT_Biddulph.jpg'],
             ['name' => 'National Trust Nostel Priory', 'description' => 'Exhibition Design', 'url' => '/project/nt-nostell', 'thumbnail_path' => '/images/thumbnails/NT_Nostell.jpg'],
@@ -77,6 +78,12 @@ class ProjectController extends Controller
     public function horniman()
     {
         return view('project.horniman', [
+        ]);
+    }
+
+    public function londonTransportMuseum()
+    {
+        return view('project.london-transport-museum', [
         ]);
     }
 

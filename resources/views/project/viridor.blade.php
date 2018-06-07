@@ -96,10 +96,10 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>– Visual identity and assets</p>
-                                <p>– Interpretation design</p>
-                                <p>– Infographics</p>
-                                <p>– Exhibition layout</p>
+                                <p>Visual identity and assets</p>
+                                <p>Interpretation design</p>
+                                <p>Infographics</p>
+                                <p>Exhibition layout</p>
                             </div>
 
                             <div id="text">

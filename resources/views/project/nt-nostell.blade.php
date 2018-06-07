@@ -92,11 +92,11 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>– Visual identity and assets</p>
-                                <p>– Interpretation design</p>
-                                <p>– Marketing materials</p>
-                                <p>– Merchandise</p>
-                                <p>– Brand guidelines </p>
+                                <p>Visual identity and assets</p>
+                                <p>Interpretation design</p>
+                                <p>Marketing materials</p>
+                                <p>Merchandise</p>
+                                <p>Brand guidelines </p>
                             </div>
 
                             <div id="text">

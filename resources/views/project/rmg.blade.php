@@ -92,12 +92,12 @@
 
                             <div id="text">
                                 <h5>Deliverables</h5>
-                                <p>– Visual identity and assets</p>
-                                <p>– Marketing material</p>
-                                <p>– School packs</p>
-                                <p>– Powerpoint presentations</p>
-                                <p>– Web applications</p>
-                                <p>– Brand guidelines</p>
+                                <p>Visual identity and assets</p>
+                                <p>Marketing material</p>
+                                <p>School packs</p>
+                                <p>Powerpoint presentations</p>
+                                <p>Web applications</p>
+                                <p>Brand guidelines</p>
                             </div>
 
                             <div id="text">
