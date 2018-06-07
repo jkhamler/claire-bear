@@ -79,7 +79,7 @@
 
                         <div class="col">
 
-                            <div id="text"><p class="overlay-heading">National Trust, Nostell Priory</p></div>
+                            <div id="text"><p class="overlay-heading">National Trust, <br/>Nostell Priory</p></div>
                             <div id="text"><p class="overlay-subheading">Visual Identity</p></div>
 
                             <div style="padding-top: 20px;">

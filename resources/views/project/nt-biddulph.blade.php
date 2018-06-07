@@ -98,7 +98,7 @@
 
                         <div class="col">
 
-                            <div id="text"><p class="overlay-heading">National Trust, Biddulph Grange Garden</p></div>
+                            <div id="text"><p class="overlay-heading">National Trust, <br/>Biddulph Grange Garden</p></div>
                             <div id="text"><p class="overlay-subheading">Visual Language</p></div>
 
                             <div style="padding-top: 20px;">

@@ -105,7 +105,7 @@
                                 <h5 class="panel-title">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion"
                                        href="#collapseThree"
-                                       aria-expanded="true" aria-controls="collapseThree" class="about-links">Clients</a>
+                                       aria-expanded="true" aria-controls="collapseThree" class="about-links">Clients &amp; Companies</a>
                                     <a style="float: right;">
                                         <i id="chevronThree" class="indicator fas fa-chevron-down"
                                            data-toggle="collapse"
@@ -186,7 +186,7 @@
                                                          target="_top">hello@clairehorne.co.uk</a>
                                             </p>
 
-                                            <p>CV (PDF):
+                                            <p>Download CV (PDF):
                                                 <a href="/pdf/ClaireHorneCV.pdf" download>
                                                     <i class="far fa-file-pdf fa-2x"></i>
                                                 </a>

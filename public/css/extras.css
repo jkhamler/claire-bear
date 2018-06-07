@@ -5,11 +5,12 @@ body {
 .panel-body{
     font-family: Roboto;
     font-size: 13pt;
+    font-weight: 300;
 }
 
 .panel-title{
     font-family: Roboto;
-    font-size: 16pt;
+    font-size: 15pt;
 }
 
 .header-hamburger {
@@ -166,20 +167,20 @@ body {
 
 .project-title {
     font-family: Roboto;
-    font-size: 16pt;
+    font-size: 13pt;
     letter-spacing: 0.02em;
     color: #333333;
 }
 
 .project-subtitle {
-    font-family: Roboto;
+    font-family: Roboto;cl
     color: #333333;
     letter-spacing: 0.02em;
 }
 
 .read-more {
     font-family: Roboto;
-    font-size: 16pt;
+    font-size: 11pt;
     color: #333333;
     letter-spacing: 0.02em;
     text-decoration: underline;
@@ -312,10 +313,13 @@ body {
 
 .overlay-heading{
     font-size: 20pt;
+    font-weight: 400;
+    margin-bottom: 0px;
 }
 
 .overlay-subheading{
     font-size: 16pt;
+    font-weight: 400;
 }
 
 #overlay {
@@ -337,4 +341,5 @@ body {
     color: white;
     font-size: 13pt;
     letter-spacing: 0.02em;
+    font-weight: 300;
 }
