@@ -25,6 +25,7 @@ Route::prefix('project')->group(function () {
     Route::get('/allude', 'ProjectController@allude');
     Route::get('/bmm', 'ProjectController@bmm');
     Route::get('/curraghs', 'ProjectController@curraghs');
+    Route::get('/email-designs', 'ProjectController@emailDesigns');
     Route::get('/fa-england', 'ProjectController@faEngland');
     Route::get('/girl-in-a-blue-dress', 'ProjectController@girlInABlueDress');
     Route::get('/history-of-magic', 'ProjectController@historyOfMagic');

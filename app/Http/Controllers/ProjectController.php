@@ -19,6 +19,7 @@ class ProjectController extends Controller
             ['name' => 'Allude', 'description' => 'Exhibition Design', 'url' => '/project/allude', 'thumbnail_path' => '/images/thumbnails/Allude.jpg'],
             ['name' => 'British Motor Museum', 'description' => 'Exhibition Design', 'url' => '/project/bmm', 'thumbnail_path' => '/images/thumbnails/BMM.jpg'],
             ['name' => 'Curraghs Wildlife Park', 'description' => 'Visual Identity', 'url' => '/project/curraghs', 'thumbnail_path' => '/images/thumbnails/Curraghs.jpg'],
+            ['name' => 'Email Designs', 'description' => 'Digital', 'url' => '/project/email-designs', 'thumbnail_path' => '/images/thumbnails/Email.jpg'],
             ['name' => 'FA England', 'description' => 'Packaging Design', 'url' => '/project/fa-england', 'thumbnail_path' => '/images/thumbnails/FA_England_Packaging.jpg'],
             ['name' => 'Girl in a Blue Dress', 'description' => 'Retail Campaign', 'url' => '/project/girl-in-a-blue-dress', 'thumbnail_path' => '/images/thumbnails/Girl_Blue_Dress.jpg'],
             ['name' => 'History of Magic', 'description' => 'Exhibition Design', 'url' => '/project/history-of-magic', 'thumbnail_path' => '/images/thumbnails/history_magic.jpg'],
@@ -54,6 +55,12 @@ class ProjectController extends Controller
     public function curraghs()
     {
         return view('project.curraghs', [
+        ]);
+    }
+
+    public function emailDesigns()
+    {
+        return view('project.email-designs', [
         ]);
     }
 
