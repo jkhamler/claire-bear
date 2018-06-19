@@ -2,13 +2,13 @@ body {
     font-family: Roboto;
 }
 
-.panel-body{
+.panel-body {
     font-family: Roboto;
     font-size: 13pt;
     font-weight: 300;
 }
 
-.panel-title{
+.panel-title {
     font-family: Roboto;
     font-size: 15pt;
 }
@@ -18,7 +18,7 @@ body {
 
 }
 
-.about-links{
+.about-links {
     color: #333333;
     font-family: Roboto;
     letter-spacing: 0.02em;
@@ -30,7 +30,6 @@ body {
     color: #848484;
     letter-spacing: 0.02em;
 }
-
 
 .navbar-white {
     background-color: white;
@@ -45,7 +44,8 @@ body {
 }
 
 .body-container {
-   display: inline-block;min-height: 100%;
+    display: inline-block;
+    min-height: 100%;
     padding-bottom: 80px;
 }
 
@@ -54,7 +54,7 @@ body {
     position: relative;
 }
 
-#text{
+#text {
     font-family: Roboto;
 }
 
@@ -130,7 +130,7 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
-    clear:both;
+    clear: both;
 }
 
 .footer-center {
@@ -164,6 +164,12 @@ body {
     padding-bottom: 7px;
 }
 
+.profile-photo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 240px;
+}
 
 .project-title {
     font-family: Roboto;
@@ -173,7 +179,7 @@ body {
 }
 
 .project-subtitle {
-    font-family: Roboto;cl
+    font-family: Roboto;
     color: #333333;
     letter-spacing: 0.02em;
 }
@@ -262,7 +268,7 @@ body {
     width: 100%;
 }
 
-.content-title{
+.content-title {
     color: deeppink;
 }
 
@@ -306,18 +312,18 @@ body {
     letter-spacing: 0.1em;
 }
 
-.about-section-border{
+.about-section-border {
     border-bottom: 1px solid;
     border-color: #333333;
 }
 
-.overlay-heading{
+.overlay-heading {
     font-size: 20pt;
     font-weight: 400;
     margin-bottom: 0px;
 }
 
-.overlay-subheading{
+.overlay-subheading {
     font-size: 16pt;
     font-weight: 400;
 }

@@ -28,12 +28,15 @@
 
                                 <div class="row">
 
-                                    <div class="col-xs-1 col-sm-3 col-md-4 col-lg-5">
+                                    <div class="col-xs-1 col-sm-6 col-md-5 col-lg-5">
                                         <h5 class="panel-title">About</h5>
 
+                                        <div>
+                                            <img src="/images/claire.png" class="profile-photo"/>
+                                        </div>
 
                                     </div>
-                                    <div class="panel-body col-xs-11 col-sm-8 col-md-7 col-lg-5">
+                                    <div class="panel-body col-xs-11 col-sm-6 col-md-6 col-lg-5">
 
                                         <p>I'm a multi-disciplinary graphic designer who thrives on concepts and
                                             beautiful design. I believe that simple and intelligent ideas are the
@@ -56,7 +59,6 @@
                         </div>
 
                         <div class="about-section-border" style="margin-bottom: 10px;">
-
 
                             <div class="panel-heading active" role="tab" id="headingTwo">
                                 <h5 class="panel-title">
@@ -192,10 +194,6 @@
                                                 </a>
 
                                             </p>
-
-
-
-
                                         </div>
                                     </div>
                                     <br/>
