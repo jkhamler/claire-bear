@@ -31,6 +31,7 @@ Route::prefix('project')->group(function () {
     Route::get('/history-of-magic', 'ProjectController@historyOfMagic');
     Route::get('/horniman', 'ProjectController@horniman');
     Route::get('/london-transport-museum', 'ProjectController@londonTransportMuseum');
+    Route::get('/melrose-morgan', 'ProjectController@melroseMorgan');
     Route::get('/metamorphosis', 'ProjectController@metamorphosis');
     Route::get('/nt-biddulph', 'ProjectController@ntBiddulph');
     Route::get('/nt-nostell', 'ProjectController@ntNostell');

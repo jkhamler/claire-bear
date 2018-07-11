@@ -169,6 +169,7 @@ body {
     margin-right: auto;
     display: block;
     width: 240px;
+    padding-bottom: 20px;
 }
 
 .project-title {
